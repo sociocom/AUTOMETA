@@ -1,0 +1,11 @@
+T1	intervention 13 49	Plantago ovata-based herbal compound
+T2	condition 81 95	oral mucositis
+T3	eligibility 555 637	breast cancer patients undergoing chemotherapy with a regimen including adriamycin
+T4	No-of-participants 944 956	Twenty-eight
+T5	intervention-participants 1074 1076	14
+T6	eligibility 957 1029	patients who developed mucositis during the chemotherapy screening cycle
+T7	control-participants 1095 1097	14
+T8	control 1082 1089	placebo
+T9	outcome-Measure 1591 1610	degree of mucositis
+T10	outcome-Measure 1678 1736	severity of pain, xerostomia grade and the quality of life
+T11	outcome 1818 1944	reduced the degree of mucositis, the severity of pain and the xerostomia grade; it also improved the patients' quality of life

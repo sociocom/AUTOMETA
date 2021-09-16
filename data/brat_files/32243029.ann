@@ -1,0 +1,9 @@
+T1	intervention 11 30	Health Belief Model
+T2	condition 85 95	lymphedema
+T3	No-of-participants 553 555	72
+T4	eligibility 556 605	women receiving radiotherapy after breast surgery
+T5	intervention-participants 615 617	37
+T6	control-participants 652 654	35
+T7	control 666 679	control group
+T8	outcome-Measure 785 1119	personal information questionnaire, Quick-Disabilities of the Arm, Shoulder and Hand Score (Q-DASH), European Organization for Research and Treatment of Cancer Quality of Life for Breast Cancer 23 (EORTC QLQ-BR23), Strategies Used by Patients to Promote Health (SUPPH), Arm Circumference Form at three home visits at 3-month intervals
+T9	outcome 1207 1454	positive changes in behaviour of lymphedema prevention and improve upper extremity functions, reduce side-effects, relieve arm and breast symptoms, enhance the quality of life, increase self-efficacy and lower the frequency of lymphedema and costs
