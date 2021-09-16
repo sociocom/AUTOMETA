@@ -1,0 +1,15 @@
+T1	intervention 26 43	Calcium Hydroxide
+T2	intervention 12 21	Olive Oil
+T3	condition 66 86	Radiation Dermatitis
+T4	No-of-participants 398 400	62
+T5	control 439 464	general skin care regimen
+T6	eligibility 338 396	breast cancer patients who received hypofractionation PMRT
+T7	outcome-Measure 616 663	Adverse skin reactions and the Skindex-16 score
+T8	outcome 679 742	At the 8th, 13th, and 16th fraction of PMRT, grade 1 dermatitis
+T9	control-value 756 758	42
+T10	control-value 760 762	90
+T11	control-value 768 771	90%
+T12	intervention-value 800 802	16
+T13	intervention-value 804 806	30
+T14	intervention-value 812 815	71%
+T15	outcome 872 893	mean Skindex-16 score

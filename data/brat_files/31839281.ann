@@ -1,0 +1,34 @@
+T1	intervention 7 18	anastrozole
+T2	control 461 468	placebo
+T3	eligibility 717 783	Postmenopausal women at increased risk of developing breast cancer
+T4	duration 905 912	5 years
+T5	outcome-Measure 1134 1151	all breast cancer
+T6	No-of-participants 1153 1157	3864
+T7	duration 1179 1216	between Feb 2, 2003, and Jan 31, 2012
+T8	intervention-participants 1218 1222	1920
+T9	control-participants 1279 1283	1944
+T10	outcome 1356 1382	reduction in breast cancer
+T11	intervention-value 1352 1355	49%
+T12	intervention-value 1413 1415	85
+T13	control-value 1419 1422	165
+T14	outcome 1487 1496	reduction
+T15	outcome 1515 1528	first 5 years
+T16	intervention-value 1530 1532	35
+T17	control-value 1536 1538	89
+T18	outcome 1590 1603	after 5 years
+T19	intervention-value 1605 1607	50
+T20	control-value 1611 1613	76
+T21	outcome 1718 1768	Invasive oestrogen receptor-positive breast cancer
+T22	intervention-value 1784 1787	54%
+T23	outcome 1900 1937	reduction in ductal carcinoma in situ
+T24	intervention-value 1896 1899	59%
+T25	outcome 2105 2111	deaths
+T26	intervention-value 2134 2136	69
+T27	control-value 2140 2142	70
+T28	outcome 2182 2199	for breast cancer
+T29	intervention-value 2201 2204	two
+T30	control-value 2220 2225	three
+T31	outcome 2250 2280	decrease in non-breast cancers
+T32	intervention-value 2311 2314	147
+T33	control-value 2318 2321	200
+T34	outcome 2414 2462	No excess of fractures or cardiovascular disease

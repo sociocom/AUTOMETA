@@ -1,0 +1,12 @@
+T1	intervention 43 54	carboplatin
+T2	outcome-Measure 338 365	disease-free survival [DFS]
+T3	outcome-Measure 399 421	overall survival [OS],
+T4	eligibility 542 597	Patients with stage II/III, HER2-negative breast cancer
+T5	No-of-participants 603 606	179
+T6	No-of-participants 1042 1045	179
+T7	No-of-participants 1056 1059	154
+T8	outcome 1159 1184	patients who achieved pCR
+T9	duration 1125 1134	6.6 years
+T10	outcome 1244 1254	DFS and OS
+T11	outcome 1394 1440	DFS and OS in the subset of patients with TNBC
+T12	outcome 1533 1612	subset of patients with hormone receptor-positive disease or among all patients

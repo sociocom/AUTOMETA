@@ -1,0 +1,8 @@
+T1	condition 9 29	Radiation Dermatitis
+T2	intervention 38 63	Film-forming Silicone Gel
+T3	control 253 271	moisturizing cream
+T4	eligibility 285 329	patients receiving whole breast radiotherapy
+T5	No-of-participants 342 344	56
+T6	outcome-Measure 421 453	severity of radiation dermatitis
+T7	outcome 739 768	changes in the erythema index
+T8	outcome 792 805	melanin index

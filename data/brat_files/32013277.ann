@@ -1,0 +1,12 @@
+T1	intervention 35 43	Ketamine
+T2	condition 58 75	Postsurgical Pain
+T3	location 585 602	Republic of Korea
+T4	duration 604 641	between December 2013 and August 2016
+T5	No-of-participants 654 657	184
+T6	control 740 747	control
+T7	outcome-Measure 1260 1303	incidence of PPSP at 3 months after surgery
+T8	No-of-participants 1324 1327	168
+T9	outcome 1356 1395	number of patients who experienced pain
+T10	control-value 1455 1460	86.9%
+T11	intervention-value 1485 1490	69.0%
+T12	outcome 1554 1567	NRSr and NRSd

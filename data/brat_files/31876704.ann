@@ -1,0 +1,8 @@
+T1	intervention 71 89	mometasone furoate
+T2	condition 120 146	acute radiation dermatitis
+T3	eligibility 150 202	patients with head and neck squamous cell carcinomas
+T4	control 1145 1159	control groups
+T5	No-of-participants 1326 1335	Forty-one
+T6	outcome-Measure 1194 1209	severity of ARD
+T8	outcome 1698 1718	itch and pain scores
+T7	outcome 1486 1499	stages of ARD
