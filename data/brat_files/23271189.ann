@@ -1,0 +1,9 @@
+T2	eligibility 313 333	postmenopausal women
+T3	control 608 615	placebo
+T4	intervention 586 596	raloxifene
+T1	intervention 67 79	bazedoxifene
+T5	intervention 80 100	conjugated estrogens
+T6	outcome-Measure 927 949	percent breast density
+T7	No-of-participants 1026 1029	507
+T8	average-age 1070 1081	55.2-56.3 y
+T9	outcome 1113 1167	mammographic breast density from baseline to 24 months

@@ -1,0 +1,10 @@
+T1	intervention 1 10	Parecoxib
+T2	No-of-participants 328 330	40
+T3	eligibility 331 395	breast cancer patients undergone the modified radical mastectomy
+T4	intervention-participants 444 446	20
+T5	control 454 467	control group
+T6	control-participants 471 473	20
+T8	outcome-Measure 865 868	NLR
+T9	outcome 912 915	NLR
+T7	outcome-Measure 710 860	peripheral bloods were collected for routine test in the morning of the surgery day (T1), and Day 1 (T2), Day 3 (T3) and Day 7 (T4) after the surgery,
+T10	outcome 1136 1139	NLR

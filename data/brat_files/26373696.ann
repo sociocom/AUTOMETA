@@ -1,0 +1,11 @@
+T1	intervention 14 26	Text Message
+T2	duration 607 614	6-month
+T3	control 700 710	usual care
+T4	outcome 2052 2072	rate of satisfaction
+T5	outcome 1764 1781	lower mean weight
+T6	outcome 1826 1850	higher physical activity
+T7	outcome 1903 1946	no significant differences in energy intake
+T8	average-age 1562 1572	54.9 years
+T9	No-of-participants 1540 1542	29
+T10	outcome-Measure 1439 1463	participant satisfaction
+T11	outcome-Measure 1372 1433	systematic tracking of text message delivery process outcomes

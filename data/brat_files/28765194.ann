@@ -1,0 +1,12 @@
+T1	intervention 10 19	Green Tea
+T2	condition 35 57	Liver Enzyme Elevation
+T3	location 111 124	United States
+T4	No-of-participants 519 524	1,075
+T5	duration 603 612	12 months
+T6	No-of-participants 729 734	1,021
+T7	intervention-participants 749 752	513
+T8	control-participants 764 767	508
+T9	control 771 778	placebo
+T10	outcome 858 888	alanine aminotransferase (ALT)
+T11	outcome 954 980	aspartate aminotransferase
+T12	outcome 1155 1222	moderate or more severe abnormalities in any liver function measure

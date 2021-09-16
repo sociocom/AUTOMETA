@@ -1,0 +1,15 @@
+T2	duration 962 969	3 month
+T4	control 1053 1063	usual care
+T5	duration 1095 1129	between June 2013 and January 2014
+T6	outcome-Measure 1283 1294	body weight
+T7	outcome-Measure 1296 1315	waist circumference
+T8	outcome-Measure 1317 1342	eating and alcohol habits
+T9	outcome-Measure 1347 1364	physical activity
+T10	No-of-participants 1783 1785	80
+T11	No-of-participants 1825 1827	65
+T12	intervention-participants 1848 1850	29
+T13	control-participants 1865 1867	36
+T14	average-age 1921 1935	58 ± 5.6 years
+T15	outcome 2050 2079	baseline body weight adjusted
+T16	outcome 2275 2335	BMI, waist circumference, physical activity and sitting time
+T1	intervention 92 101	lifestyle

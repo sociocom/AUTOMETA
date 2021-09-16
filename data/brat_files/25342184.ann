@@ -1,0 +1,7 @@
+T1	intervention 18 49	subcutaneous buffered lidocaine
+T2	control 919 932	control group
+T3	outcome-Measure 1362 1376	change in pain
+T4	outcome-Measure 1507 1548	number of axillary lymph nodes visualized
+T5	outcome 1602 1629	preprocedural baseline pain
+T6	outcome 1760 1797	pain experienced during the procedure
+T7	outcome 1907 1931	detection of lymph nodes

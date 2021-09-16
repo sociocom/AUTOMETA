@@ -1,0 +1,13 @@
+T1	intervention 29 38	metformin
+T2	condition 42 60	serum testosterone
+T3	condition 65 72	insulin
+T4	eligibility 76 113	non-diabetic women with breast cancer
+T5	eligibility 1220 1330	postmenopausal patients with breast cancer and without diabetes who have basal testosterone levels ≥0.28 ng/mL
+T6	No-of-participants 1358 1361	125
+T7	duration 1431 1439	3 months
+T8	No-of-participants 1844 1846	96
+T9	intervention-participants 1874 1876	43
+T10	control-participants 1907 1909	53
+T11	outcome 1999 2012	insulin level
+T12	outcome 2209 2222	insulin level
+T13	outcome 2248 2266	testosterone level

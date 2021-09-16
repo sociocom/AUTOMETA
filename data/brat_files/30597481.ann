@@ -1,0 +1,14 @@
+T1	intervention 0 17	Healthy lifestyle
+T2	ethinicity 171 179	Moroccan
+T3	intervention-participants 401 404	300
+T4	control-participants 427 430	300
+T5	control 431 439	controls
+T6	eligibility 505 564	women newly-diagnosed with histopathologically-confirmed BC
+T7	location 595 607	Fez, Morocco
+T8	outcome-Measure 703 713	HLI scores
+T9	outcome 1149 1167	Mean of HLI scores
+T10	outcome 1289 1325	one-point increment in the HLI score
+T11	intervention-value 1346 1349	56%
+T12	intervention-value 1372 1375	49%
+T13	intervention-value 1398 1401	59%
+T14	outcome 1419 1484	lower risks of BC in all, premenopausal, and postmenopausal women

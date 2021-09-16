@@ -1,0 +1,15 @@
+T1	intervention 11 15	Yoga
+T2	condition 19 41	cancer related fatigue
+T3	eligibility 45 85	breast cancer patients with chemotherapy
+T4	No-of-participants 261 264	100
+T5	control 373 386	control group
+T6	intervention-participants 390 392	50
+T7	control-participants 390 392	50
+T8	No-of-participants 646 648	82
+T9	control-participants 680 682	42
+T10	intervention-participants 715 717	40
+T11	outcome 811 828	difference in CRF
+T12	outcome 954 989	mean scores of CFS and body fatigue
+T13	outcome 913 948	After the 4th round of chemotherapy
+T14	outcome 1074 1109	After the 6th round of chemotherapy
+T15	outcome 1115 1169	mean scores of CFS, body fatigue and cognitive fatigue

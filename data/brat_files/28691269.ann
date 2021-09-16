@@ -1,0 +1,14 @@
+T1	intervention 38 47	Lidocaine
+T2	condition 51 80	Postoperative Persistent Pain
+T3	control 785 798	normal saline
+T4	outcome-Measure 887 935	presence of chronic persistent postsurgical pain
+T5	No-of-participants 937 960	One hundred forty-eight
+T6	outcome 1021 1091	differences in quality of recovery, pain burden, or opioid consumption
+T7	outcome 1120 1145	Pain (yes/no) at 6 months
+T8	control-value 1184 1187	29%
+T9	intervention-value 1203 1206	13%
+T10	outcome 1336 1365	persistent postoperative pain
+T11	intervention-value 1253 1254	3
+T12	intervention-value 1265 1267	5%
+T13	control-value 1284 1285	2
+T14	control-value 1296 1298	3%

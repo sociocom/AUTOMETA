@@ -1,0 +1,15 @@
+T1	intervention 0 11	Meat intake
+T2	intervention-participants 309 313	1006
+T3	control-participants 361 365	1370
+T4	control 366 374	controls
+T5	location 393 413	10 Spanish provinces
+T6	average-age 433 444	23-85 years
+T7	outcome-Measure 496 524	food frequency questionnaire
+T8	outcome-Measure 467 489	epidemiological survey
+T9	outcome 874 891	increased BC risk
+T10	outcome 1288 1305	increased BC risk
+T11	outcome 790 815	High total intake of meat
+T12	outcome 953 972	rocessed/cured meat
+T13	outcome 1145 1165	Intakes of well-done
+T14	outcome 1370 1438	Pan-fried/bread-coated fried white meat, but not doneness preference
+T15	outcome 1463 1475	increased BC

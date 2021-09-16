@@ -1,0 +1,15 @@
+T2	No-of-participants 294 304	Twenty-six
+T3	eligibility 305 343	women with nonmetastatic breast cancer
+T4	intervention-participants 406 408	15
+T5	intervention 379 387	exercise
+T6	average-age 419 435	51.9 ± 9.8 years
+T7	control 445 458	control group
+T9	average-age 477 493	56.9 ± 7.0 years
+T8	control-participants 464 466	11
+T1	outcome-Measure 543 559	lactate sampling
+T10	outcome-Measure 561 589	one-repetition maximum tests
+T11	outcome-Measure 596 616	HADS-D questionnaire
+T12	outcome-Measure 879 888	endurance
+T13	outcome 933 953	strength performance
+T14	outcome 1004 1019	quality of life
+T15	outcome 1077 1091	adverse events

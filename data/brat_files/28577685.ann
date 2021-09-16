@@ -1,0 +1,7 @@
+T1	intervention 0 10	Lisinopril
+T2	intervention 14 22	Coreg CR
+T3	condition 35 49	cardiotoxicity
+T4	eligibility 53 99	women with breast cancer receiving trastuzumab
+T5	outcome-Measure 1101 1142	comparison of incidence of cardiotoxicity
+T6	outcome-Measure 1151 1169	comparison of LVEF
+T7	No-of-participants 1430 1433	468

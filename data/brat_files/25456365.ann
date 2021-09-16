@@ -1,0 +1,37 @@
+T1	intervention 77 88	anastrozole
+T2	intervention 93 104	risedronate
+T3	duration 35 42	3 years
+T4	No-of-participants 565 569	3864
+T5	eligibility 570 634	healthy, postmenopausal women at increased risk of breast cancer
+T6	control 702 709	placebo
+T7	No-of-participants 711 715	1410
+T8	outcome-Measure 1413 1518	effect of risedronate versus placebo for osteopenic women in stratum II randomly allocated to anastrozole
+T9	outcome-Measure 1559 1729	effect of anastrozole (1 mg/day) on BMD in women not receiving risedronate (strata I and II) and in osteoporotic women who were all treated with risedronate (stratum III)
+T10	duration 1828 1866	Between Feb 2, 2003, and Sept 30, 2010
+T11	No-of-participants 1868 1871	150
+T12	outcome 2044 2066	3 year mean BMD change
+T13	intervention-participants 2075 2077	77
+T14	control-participants 2183 2185	73
+T15	outcome 2242 2275	total hip, 3 year mean BMD change
+T16	outcome 2663 2675	BMD decrease
+T17	outcome 2756 2775	at the lumbar spine
+T18	outcome 2837 2846	total hip
+T19	intervention-participants 2987 2989	46
+T20	outcome 3034 3046	BMD increase
+T21	outcome 3069 3081	at the spine
+T22	outcome 3182 3191	total hip
+T24	control-value 3458 3460	94
+T25	intervention-value 3473 3476	114
+T26	outcome 3447 3456	stratum I
+T27	outcome 3490 3500	stratum II
+T28	control-value 3502 3504	39
+T29	intervention-value 3522 3524	25
+T30	intervention-value 3546 3548	34
+T31	intervention-value 3574 3576	34
+T32	outcome 3602 3613	stratum III
+T33	intervention-value 3615 3617	21
+T34	intervention-value 3639 3641	17
+T35	adverse-effect 3698 3709	hot flushes
+T36	adverse-effect 3711 3719	alopecia
+T37	adverse-effect 3721 3735	abdominal pain
+T38	adverse-effect 3741 3750	back pain

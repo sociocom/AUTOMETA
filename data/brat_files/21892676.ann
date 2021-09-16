@@ -1,0 +1,22 @@
+T1	intervention 30 47	exercise training
+T3	duration 104 112	12-month
+T2	condition 212 221	bone loss
+T4	eligibility 321 358	premenopausal breast cancer survivors
+T5	No-of-participants 750 753	573
+T6	average-age 783 794	35-68 years
+T7	control 831 844	control group
+T8	No-of-participants 872 875	498
+T9	outcome-Measure 1045 1104	Bone mineral density (BMD) at lumbar spine and femoral neck
+T10	outcome-Measure 1156 1176	Physical performance
+T11	outcome 1344 1399	bone loss at the femoral neck was prevented by exercise
+T12	outcome 1494 1533	Lumbar bone loss could not be prevented
+T13	intervention-value 1428 1433	-0.2%
+T14	control-value 1457 1462	-1.4%
+T15	intervention-value 1535 1540	-1.9%
+T16	control-value 1545 1550	-2.2%
+T17	outcome 1578 1652	no significant exercise-effect on BMD was found either at the lumbar spine
+T18	intervention-value 1654 1659	-1.6%
+T19	control-value 1664 1669	-2.1%
+T20	outcome 1674 1686	femoral neck
+T21	intervention-value 1688 1693	-1.1%
+T22	control-value 1698 1703	-1.1%

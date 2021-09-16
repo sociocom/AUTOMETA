@@ -1,0 +1,22 @@
+T1	intervention 0 9	Tamoxifen
+T2	No-of-participants 473 478	13388
+T3	eligibility 480 515	at increased risk for breast cancer
+T4	outcome 1001 1043	reduced the risk of invasive breast cancer
+T6	control 739 746	placebo
+T7	control-participants 750 754	6707
+T8	intervention-participants 782 786	6681
+T9	duration 792 799	5 years
+T11	control-value 1133 1137	43.4
+T12	intervention-value 1145 1149	22.0
+T13	outcome 1220 1234	decreased risk
+T14	intervention-value 1279 1282	44%
+T15	intervention-value 1298 1301	51%
+T16	intervention-value 1327 1330	55%
+T17	intervention-value 1409 1412	56%
+T18	intervention-value 1439 1442	86%
+T19	outcome 1511 1556	reduced the risk of noninvasive breast cancer
+T20	intervention-value 1560 1563	50%
+T21	outcome 1606 1653	occurrence of estrogen receptor-positive tumors
+T22	intervention-value 1657 1660	69%
+T23	intervention-participants 1154 1158	1000
+T5	outcome 1078 1098	cumulative incidence

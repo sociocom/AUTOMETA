@@ -1,0 +1,12 @@
+T1	condition 46 55	bone loss
+T2	intervention 92 107	zoledronic acid
+T3	duration 115 121	5-year
+T4	control 540 547	placebo
+T5	eligibility 59 77	premenopausal wome
+T6	intervention-participants 594 604	Thirty-one
+T7	control-participants 647 658	thirty-four
+T8	outcome-Measure 778 812	changes in Bone Mass Density (BMD)
+T9	outcome 899 922	BMD at the lumbar spine
+T10	outcome 1137 1160	BMD at the lumbar spine
+T11	intervention-value 1116 1120	2.2%
+T12	control-value 1125 1129	7.3%

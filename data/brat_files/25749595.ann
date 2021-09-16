@@ -1,0 +1,11 @@
+T1	intervention 0 7	Tai chi
+T2	condition 91 99	insomnia
+T3	No-of-participants 496 498	90
+T4	eligibility 499 536	breast cancer survivors with insomnia
+T5	duration 598 606	3 months
+T6	outcome 1636 1675	reduced cellular inflammatory responses
+T7	outcome 1682 1743	educed expression of genes encoding proinflammatory mediators
+T8	outcome 1455 1539	reduction of activity of the proinflammatory transcription factor, nuclear factor-κB
+T9	outcome 1083 1112	reduction in TCC versus CBT-I
+T10	outcome 906 934	Levels of C-reactive protein
+T11	No-of-participants 851 853	48

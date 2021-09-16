@@ -1,0 +1,9 @@
+T1	intervention 10 17	CYP19A1
+T2	intervention 22 26	ESR1
+T3	eligibility 653 716	premenopausal women with hormone-responsive early breast cancer
+T4	duration 739 746	5-years
+T8	outcome-Measure 1083 1209	Associations of the genotype variants with grade ≥2 early-onset targeted AEs of hot flashes/sweating or musculoskeletal events
+T9	No-of-participants 1269 1273	2660
+T10	No-of-participants 1366 1370	1967
+T11	outcome 1505 1555	reduced incidence of grade ≥2 hot flashes/sweating
+T12	outcome 1806 1883	No association with any of the CYP19A1/ESR1 genotypes and musculoskeletal AEs

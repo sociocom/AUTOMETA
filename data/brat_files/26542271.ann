@@ -1,0 +1,19 @@
+T1	intervention 13 29	physical therapy
+T2	intervention 52 77	manual lymphatic drainage
+T3	condition 81 98	shoulder function
+T4	condition 100 115	quality of life
+T5	condition 117 137	lymphedema incidence
+T6	condition 143 147	pain
+T7	eligibility 151 230	breast cancer patients with axillary web syndrome following axillary dissection
+T8	No-of-participants 533 535	41
+T9	eligibility 536 662	breast cancer patients with visible and palpable cords on the arm and axilla and a numeric rating scale (NRS) pain score of >3
+T10	control-participants 723 725	20
+T11	intervention-participants 790 792	21
+T12	outcome-Measure 915 925	Arm volume
+T13	outcome-Measure 927 944	shoulder function
+T14	outcome-Measure 1046 1049	QOL
+T15	outcome-Measure 1167 1177	pain (NRS)
+T16	outcome 1236 1328	QOL including functional and symptom aspects, shoulder flexor strength, DASH, and NRS scores
+T17	outcome 1414 1438	NRS score and arm volume
+T18	outcome 1516 1526	Lymphedema
+T19	control-value 1555 1556	6

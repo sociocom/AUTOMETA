@@ -1,0 +1,12 @@
+T1	intervention 47 60	Paravertebral
+T2	control 74 98	General Anesthesia Alone
+T3	eligibility 466 507	patients undergoing breast reconstruction
+T4	duration 515 521	3-year
+T5	outcome-Measure 742 789	pain and nausea patient-reported numeric scores
+T6	outcome-Measure 794 842	consumption of opioid and antiemetic medications
+T7	No-of-participants 870 872	74
+T8	intervention-participants 935 937	35
+T9	control-participants 965 967	39
+T10	outcome 1137 1194	required less opioid intraoperatively and postoperatively
+T11	outcome 1350 1367	lower pain scores
+T12	outcome 1532 1558	less antiemetic medication

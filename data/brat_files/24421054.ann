@@ -1,0 +1,11 @@
+T1	intervention 10 18	β-glucan
+T3	No-of-participants 391 413	One hundred and thirty
+T4	intervention-participants 548 550	65
+T5	control-participants 548 550	65
+T6	duration 627 634	10 days
+T7	control 649 657	placebos
+T8	outcome 1166 1188	daily drainage volumes
+T2	condition 22 33	drain fluid
+T9	outcome 1211 1233	Mean drain removal day
+T10	outcome 1333 1354	TNF-α and IL-6 levels
+T11	outcome 1470 1515	number of days required for the drain removal

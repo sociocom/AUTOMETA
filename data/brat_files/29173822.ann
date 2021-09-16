@@ -1,0 +1,13 @@
+T1	intervention 47 64	physical activity
+T3	intervention 77 102	simple lymphatic drainage
+T2	condition 124 156	breast cancer-related lymphedema
+T4	No-of-participants 408 410	52
+T5	intervention-participants 487 489	25
+T6	control 496 509	control group
+T7	control-participants 515 517	27
+T8	duration 681 690	six weeks
+T9	outcome-Measure 771 807	circumference of the upper extremity
+T10	outcome-Measure 809 825	symptom severity
+T11	outcome-Measure 831 848	physical function
+T12	outcome 883 912	upper extremity circumference
+T13	outcome 1024 1066	Lymphedema-related symptom severity scores

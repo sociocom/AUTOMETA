@@ -1,0 +1,13 @@
+T1	intervention 10 30	pectoral nerve block
+T2	condition 34 52	postoperative pain
+T3	No-of-participants 713 718	Sixty
+T4	eligibility 719 757	women undergoing breast cancer surgery
+T5	duration 758 794	between April 2014 and February 2015
+T6	control 943 976	saline mock block (control group)
+T7	outcome-Measure 1083 1132	Numeric Rating Scale score for postoperative pain
+T8	outcome-Measure 1134 1191	requirement for intra-operative propofol and remifentanil
+T9	outcome-Measure 1197 1232	QoR-40 score on postoperative day 1
+T10	outcome 1349 1382	pain score at 6 h postoperatively
+T11	outcome 1516 1588	blood concentration to maintain bispectral index (BIS) between 40 and 50
+T12	outcome 1807 1842	QoR-40 score on postoperative day 1
+T13	outcome 1673 1697	remifentanil consumption

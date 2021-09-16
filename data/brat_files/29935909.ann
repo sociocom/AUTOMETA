@@ -1,0 +1,11 @@
+T1	intervention 60 85	Bone Pain Education Video
+T2	condition 98 107	Bone Pain
+T4	location 526 539	United States
+T5	No-of-participants 541 554	Three hundred
+T3	average-age 561 570	≥18 years
+T6	eligibility 578 741	with newly diagnosed stage I -III breast cancer, who were planning ≥4 cycles of neoadjuvant or adjuvant chemotherapy with pegfilgrastim support starting in cycle 1
+T7	outcome-Measure 915 973	Patients recorded severity of bone pain on a scale of 0-10
+T8	outcome-Measure 975 991	location of pain
+T9	outcome-Measure 997 1025	use of bone pain medications
+T10	outcome 1216 1250	Patient-reported maximum bone pain
+T11	outcome 1383 1404	measures of bone pain

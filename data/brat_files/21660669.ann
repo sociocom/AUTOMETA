@@ -1,0 +1,8 @@
+T1	intervention 0 15	Light treatment
+T2	condition 25 32	fatigue
+T3	eligibility 353 401	women with breast cancer undergoing chemotherapy
+T4	No-of-participants 403 414	Thirty-nine
+T5	intervention 494 518	bright white light (BWL)
+T6	control 522 541	dim red light (DRL)
+T7	outcome 1013 1030	increased fatigue
+T8	outcome 1201 1228	increases in fatigue levels

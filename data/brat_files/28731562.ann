@@ -1,0 +1,15 @@
+T1	duration 731 740	six-month
+T2	intervention 787 826	telephone-based behavioural weight loss
+T3	intervention-participants 845 847	45
+T4	control 861 871	usual care
+T5	control-participants 877 879	45
+T6	eligibility 86 130	overweight and obese breast cancer survivors
+T7	eligibility 887 931	overweight and obese breast cancer survivors
+T8	outcome-Measure 937 955	FFBQ's total index
+T9	outcome-Measure 957 966	fat index
+T10	outcome-Measure 971 982	fibre index
+T11	outcome 1198 1262	Pearson's correlations of the fat index with fat intake measures
+T12	outcome 1301 1312	at baseline
+T13	outcome 1348 1366	for dietary change
+T14	outcome 1368 1457	Correlations of the fibre index with unadjusted and energy-adjusted fibre intake measures
+T15	outcome 1524 1547	FFBQ and 24-hour recall

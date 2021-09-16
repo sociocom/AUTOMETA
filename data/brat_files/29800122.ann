@@ -1,0 +1,24 @@
+T1	intervention 15 30	Low-Fat Dietary
+T2	No-of-participants 773 779	48 835
+T3	eligibility 780 906	postmenopausal women with no previous breast cancer and dietary fat intake of greater than 32% by food frequency questionnaire
+T4	location 688 690	US
+T5	duration 731 753	from 1993 through 1998
+T6	intervention-participants 979 985	19 541
+T7	control 1089 1116	usual-diet comparison group
+T8	control-participants 1127 1133	29 294
+T9	outcome 2266 2282	overall survival
+T10	outcome 1943 1968	deaths from breast cancer
+T11	intervention-value 1970 1972	68
+T12	control-value 1976 1979	120
+T13	outcome 2011 2024	other cancers
+T14	intervention-value 2026 2028	36
+T15	control-value 2032 2034	65
+T16	outcome 2070 2092	cardiovascular disease
+T17	intervention-value 2094 2096	27
+T18	control-value 2100 2102	64
+T19	outcome 1676 1692	overall survival
+T20	outcome 1804 1820	10-year survival
+T21	intervention-value 1824 1827	82%
+T22	control-value 1832 1835	78%
+T23	duration 1344 1352	8.5-year
+T24	duration 1420 1430	11.5 years

@@ -1,0 +1,11 @@
+T1	intervention 99 108	tamoxifen
+T2	intervention 113 124	fenretinide
+T3	control 565 572	placebo
+T4	duration 577 584	2 years
+T5	outcome-Measure 598 600	MD
+T6	outcome-Measure 605 807	circulating concentrations of follicle-stimulating hormone, luteinizing hormone (LH), estradiol, progesterone, testosterone, androstenedione, dehydro-epiandrosteronesulfate, prolactin, SHBG, and retinol
+T7	outcome 1005 1019	increased SHBG
+T8	outcome 1033 1104	increases in testosterone, estradiol, and prolactin and reduction in LH
+T9	outcome 1140 1204	increased testosterone and androstenedione and decreased retinol
+T10	outcome 1206 1208	MD
+T11	outcome 1309 1361	10-year cumulative incidence of breast cancer events

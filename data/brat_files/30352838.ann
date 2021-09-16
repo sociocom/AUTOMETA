@@ -1,0 +1,9 @@
+T1	intervention 75 84	Tamoxifen
+T2	intervention 89 100	Fenretinide
+T3	No-of-participants 398 401	235
+T4	eligibility 402 454	premenopausal women at higher risk for breast cancer
+T5	control 551 558	placebo
+T6	outcome-Measure 560 580	Climacteric symptoms
+T7	outcome 1322 1380	≥3 score in the vasomotor, psychosocial, and sexual domain
+T8	outcome 1006 1024	Vasomotor symptoms
+T9	outcome 831 849	MenQoL effect size

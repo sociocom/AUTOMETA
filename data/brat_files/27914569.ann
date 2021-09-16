@@ -1,0 +1,25 @@
+T1	intervention 15 34	Ruta graveolens 5CH
+T2	intervention 39 61	Rhus toxicodendron 9CH
+T3	condition 73 83	joint pain
+T4	condition 88 97	stiffness
+T5	eligibility 132 162	women with early breast cancer
+T6	duration 530 560	between April and October 2014
+T7	control 757 775	standard treatment
+T8	eligibility 403 461	women with early, hormone-receptor positive, breast cancer
+T9	outcome-Measure 1189 1237	evolution of scores for joint pain and stiffness
+T10	outcome-Measure 1243 1292	impact of pain on sleep and analgesic consumption
+T11	No-of-participants 1340 1345	Forty
+T12	average-age 1365 1379	64.9±8.1 years
+T13	intervention-participants 1397 1399	20
+T14	control-participants 1397 1399	20
+T16	outcome 1657 1696	individual components of the pain score
+T17	outcome 1858 1879	analgesic consumption
+T15	outcome 1529 1567	evolution of mean composite pain score
+T18	control-value 1789 1793	Nine
+T19	control-value 1815 1818	45%
+T20	intervention-value 1824 1825	1
+T21	intervention-value 1827 1829	5%
+T22	outcome 1939 1977	joint pain had a worse impact on sleep
+T23	control-value 2002 2005	35%
+T24	intervention-value 2010 2012	0%
+T25	outcome 2041 2111	differences observed in the evolution of morning and daytime stiffness

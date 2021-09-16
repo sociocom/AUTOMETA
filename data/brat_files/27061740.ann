@@ -1,0 +1,9 @@
+T1	eligibility 506 558	post-primary treatment breast cancer survivors (BCS)
+T2	No-of-participants 582 585	152
+T3	intervention 633 650	physical activity
+T4	control 677 692	usual care (UC)
+T5	outcome-Measure 912 957	measures of physical activity (accelerometry)
+T6	outcome-Measure 959 975	graded walk test
+T7	outcome-Measure 981 1021	average fatigue over the previous 7 days
+T8	outcome 1116 1143	Resting and submaximal RPPs
+T9	outcome 1438 1453	reduced fatigue

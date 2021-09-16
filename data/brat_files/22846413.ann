@@ -1,0 +1,20 @@
+T1	intervention 20 34	pentoxifylline
+T2	intervention 39 48	vitamin E
+T3	control 52 70	standard follow-up
+T4	condition 107 122	breast fibrosis
+T5	No-of-participants 386 397	Fifty-three
+T6	eligibility 398 443	breast cancer patients with localized disease
+T7	intervention-participants 585 587	26
+T8	control-participants 615 617	27
+T9	outcome-Measure 620 662	Tissue compliance meter (TCM) measurements
+T10	duration 1039 1046	2 years
+T11	outcome-Measure 1051 1067	local recurrence
+T12	outcome-Measure 1069 1090	disease-free survival
+T13	outcome-Measure 1096 1112	overall survival
+T14	outcome 1118 1153	mean difference in TCM measurements
+T16	intervention-value 1335 1339	100%
+T17	control-value 1349 1354	90.6%
+T18	outcome 1380 1401	disease-free survival
+T19	intervention-value 1403 1408	96.2%
+T20	control-value 1418 1423	86.8%
+T15	outcome 1317 1333	Overall survival

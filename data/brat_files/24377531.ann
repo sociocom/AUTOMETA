@@ -1,0 +1,33 @@
+T1	intervention 19 32	Goshajinkigan
+T2	condition 42 52	neuropathy
+T3	eligibility 56 101	breast cancer patients treated with docetaxel
+T4	No-of-participants 322 327	Sixty
+T5	intervention-participants 374 386	Thirty-three
+T6	control-participants 458 460	27
+T7	control 223 240	mecobalamin (B12)
+T8	outcome-Measure 569 615	DEB-NTC (Neurotoxicity Criteria of Debiopharm)
+T9	outcome-Measure 617 673	Common Terminology Criteria for Adverse Events (NCI-CTC)
+T10	outcome-Measure 689 716	visual analogue scale (VAS)
+T11	outcome 768 791	incidence of neuropathy
+T12	intervention-value 796 801	39.3%
+T13	control-value 824 829	88.9%
+T14	outcome 875 890	grade 1 DEB-NTC
+T15	intervention-value 907 908	2
+T16	outcome 916 923	grade 2
+T17	intervention-value 927 928	5
+T18	outcome 939 946	grade 3
+T19	intervention-value 950 951	5
+T20	outcome 959 974	Grade 1 NCI-CTC
+T21	intervention-value 991 992	7
+T22	outcome 1000 1007	grade 2
+T23	intervention-value 1011 1012	6
+T24	outcome 1024 1027	VAS
+T25	outcome 1061 1086	grades 1, 2 and 3 DEB-NTC
+T26	control-value 1114 1116	12
+T27	control-value 1127 1129	12
+T28	outcome 1155 1180	grades 1, 2 and 3 NCI-CTC
+T29	control-value 1198 1200	11
+T30	control-value 1208 1210	12
+T31	control-value 1221 1224	one
+T32	control-value 1104 1107	one
+T33	outcome 1235 1238	VAS

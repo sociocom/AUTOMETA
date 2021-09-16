@@ -1,0 +1,28 @@
+T1	intervention 48 63	Zoledronic Acid
+T2	condition 100 115	Bone Metastases
+T3	location 575 588	United States
+T4	No-of-participants 604 608	1822
+T5	eligibility 610 732	with metastatic breast cancer, metastatic prostate cancer, or multiple myeloma who had at least 1 site of bone involvement
+T6	duration 747 778	between May 2009 and April 2012
+T7	control-participants 913 916	911
+T8	intervention-participants 941 944	911
+T9	outcome-Measure 989 1052	proportion of patients having at least 1 skeletal-related event
+T10	duration 950 957	2 years
+T11	outcome-Measure 1300 1377	proportion of patients with at least 1 skeletal-related event by disease type
+T12	outcome-Measure 1379 1383	pain
+T13	outcome-Measure 1474 1527	Eastern Cooperative Oncology Group performance status
+T14	outcome-Measure 1583 1620	incidence of osteonecrosis of the jaw
+T15	outcome-Measure 1622 1640	kidney dysfunction
+T16	outcome-Measure 1642 1665	skeletal morbidity rate
+T17	outcome-Measure 1751 1779	suppression of bone turnover
+T18	No-of-participants 1831 1835	1822
+T19	average-age 1878 1886	65 years
+T20	intervention 10 25	Longer-Interval
+T21	control 29 44	Standard Dosing
+T22	control-participants 2036 2039	260
+T23	control-value 2050 2055	29.5%
+T24	intervention-participants 2110 2113	253
+T25	intervention-value 2124 2129	28.6%
+T26	outcome 2188 2210	skeletal-related event
+T27	outcome 2542 2651	Pain scores, performance status scores, incidence of jaw osteonecrosis, and kidney dysfunction did not differ
+T28	outcome 2696 2747	Skeletal morbidity rates were numerically identical

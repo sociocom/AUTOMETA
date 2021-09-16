@@ -1,0 +1,11 @@
+T1	intervention 10 28	Patient Navigation
+T2	ethinicity 62 78	African American
+T3	location 450 463	Baltimore, MD
+T4	duration 587 624	from April 2006 through December 2010
+T5	No-of-participants 698 702	1905
+T6	average-age 778 787	≥65 years
+T7	eligibility 703 768	community-dwelling African American female Medicare beneficiaries
+T8	control 1048 1061	control group
+T9	outcome-Measure 1216 1262	Self-reported receipt of mammography screening
+T10	duration 1369 1380	17.8 months
+T11	outcome 1503 1544	being up to date on mammography screening

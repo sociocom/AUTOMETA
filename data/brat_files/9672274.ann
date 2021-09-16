@@ -1,0 +1,15 @@
+T1	intervention 81 90	tamoxifen
+T2	duration 395 433	Between October, 1986, and April, 1996
+T3	No-of-participants 446 450	2494
+T4	average-age 470 487	between 30 and 70
+T5	eligibility 488 526	with a family history of breast cancer
+T6	control 614 621	placebo
+T7	duration 632 639	8 years
+T8	outcome-Measure 773 800	occurrence of breast cancer
+T9	No-of-participants 913 917	2471
+T10	intervention-participants 935 939	1238
+T11	control-participants 949 953	1233
+T12	outcome 1056 1090	overall frequency of breast cancer
+T13	intervention-value 1148 1150	34
+T14	control-value 1160 1162	36
+T15	outcome 1459 1473	safety profile

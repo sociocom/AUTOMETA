@@ -1,0 +1,14 @@
+T1	intervention 314 358	telephone-delivered weight loss intervention
+T2	eligibility 360 440	among women (BMI 25-40 kg/m2 ) following treatment for stage I-III breast cancer
+T3	outcome-Measure 445 456	weight loss
+T4	outcome-Measure 476 491	quality of life
+T5	outcome-Measure 496 526	treatment-related side-effects
+T6	control 531 541	usual care
+T7	No-of-participants 544 550	Ninety
+T8	average-age 573 588	55.3 ± 8.7years
+T9	intervention-participants 774 776	45
+T10	control-participants 797 799	45
+T11	outcome-Measure 918 948	Acceptability and satisfaction
+T12	outcome 1154 1170	mean weight loss
+T13	outcome 1309 1331	reductions in fat mass
+T14	outcome 1369 1388	waist circumference

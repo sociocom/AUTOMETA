@@ -1,0 +1,19 @@
+T1	intervention 74 82	naproxen
+T2	intervention 86 96	loratadine
+T3	control 100 125	no prophylactic treatment
+T4	condition 129 138	bone pain
+T5	eligibility 142 222	patients with early-stage breast cancer receiving chemotherapy and pegfilgrastim
+T6	average-age 501 511	≥ 18 years
+T7	eligibility 519 833	with newly diagnosed stage I-III breast cancer and an ECOG performance status ≤ 2 who were planning ≥ 4 cycles of adjuvant or neoadjuvant chemotherapy with pegfilgrastim support starting in cycle 1 were randomized 1:1:1 to receive naproxen, loratadine, or no treatment to prevent pegfilgrastim-associated bone pain
+T8	outcome-Measure 860 908	all-grade bone pain in cycle 1 from AE reporting
+T9	outcome-Measure 939 1002	bone pain in cycles 2-4 and across all cycles from AE reporting
+T10	outcome-Measure 1007 1064	patient-reported bone pain by cycle and across all cycles
+T11	No-of-participants 1066 1077	Six hundred
+T12	ethinicity 1129 1134	white
+T13	average-age 1158 1175	54.2 (11.1) years
+T14	outcome 1181 1257	percentage of patients with all-grade bone pain in cycle 1 from AE reporting
+T15	intervention-value 1317 1321	40.3
+T16	intervention-value 1323 1327	42.5
+T17	control-value 1333 1338	46.6%
+T18	outcome 1679 1721	treatment-related AEs and discontinuations
+T19	outcome 1475 1501	patient-reported bone pain

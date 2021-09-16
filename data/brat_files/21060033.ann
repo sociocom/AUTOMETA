@@ -1,0 +1,17 @@
+T1	intervention 0 9	Denosumab
+T2	control 24 39	zoledronic acid
+T3	condition 61 76	bone metastases
+T4	eligibility 373 421	patients with breast cancer with bone metastases
+T5	intervention-participants 532 537	1,026
+T6	control-participants 639 644	1,020
+T7	outcome-Measure 775 801	time to first on-study SRE
+T8	outcome 948 974	time to first on-study SRE
+T9	outcome 1149 1183	Reduction in bone turnover markers
+T10	outcome 1212 1300	Overall survival, disease progression, and rates of adverse events (AEs) and serious AEs
+T11	adverse-effect 1343 1352	renal AEs
+T12	adverse-effect 1357 1378	acute-phase reactions
+T13	adverse-effect 1410 1422	hypocalcemia
+T14	outcome 1464 1488	Osteonecrosis of the jaw
+T15	intervention-value 1512 1516	2.0%
+T16	control-value 1529 1533	1.4%
+T17	outcome 1607 1634	delaying or preventing SREs

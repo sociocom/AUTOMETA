@@ -1,0 +1,16 @@
+T1	intervention 15 42	low-thrombin fibrin sealant
+T2	eligibility 669 731	patients undergoing axillary node dissection for breast cancer
+T3	No-of-participants 774 779	Sixty
+T4	duration 808 844	between September 2012 and June 2013
+T5	intervention-participants 860 866	Thirty
+T6	control-participants 936 938	30
+T7	control 939 953	drainage alone
+T8	outcome-Measure 1005 1025	predictors of seroma
+T9	outcome-Measure 1065 1075	Lymphedema
+T10	outcome 1152 1209	reduced serum output collected in the drain after surgery
+T11	outcome 1255 1300	shorter length of postoperative hospital stay
+T12	outcome 1314 1333	Incidence of seroma
+T13	outcome 1453 1482	predictor of seroma formation
+T14	outcome 1695 1705	lymphedema
+T15	intervention-value 1722 1726	6.7%
+T16	control-value 1730 1733	10%

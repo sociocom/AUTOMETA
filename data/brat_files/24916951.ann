@@ -1,0 +1,19 @@
+T1	intervention 46 54	exercise
+T2	No-of-participants 318 327	Forty-six
+T3	eligibility 328 381	postmenopausal BCS (≤Stage II, off primary treatment)
+T4	duration 403 410	3-month
+T5	control 436 449	control group
+T7	outcome-Measure 729 768	objective sleep quality (accelerometer)
+T6	outcome-Measure 691 727	sleep disturbance (PSQI and PROMIS®)
+T8	outcome-Measure 770 785	serum cytokines
+T9	outcome-Measure 787 818	accelerometer physical activity
+T10	outcome-Measure 820 845	cardiorespiratory fitness
+T11	outcome-Measure 847 863	body composition
+T12	outcome-Measure 865 872	fatigue
+T13	outcome-Measure 878 898	psychosocial factors
+T14	outcome 1058 1089	increase in PSQI sleep duration
+T15	outcome 1223 1246	PSQI daytime somnolence
+T16	outcome 1272 1293	accelerometer latency
+T17	outcome 1425 1443	Daytime somnolence
+T18	outcome 1536 1547	interleukin
+T19	outcome 1608 1615	fatigue

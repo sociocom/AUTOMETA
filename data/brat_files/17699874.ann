@@ -1,0 +1,14 @@
+T1	intervention 14 27	ductal lavage
+T2	control 32 73	random periareolar fine needle aspiration
+T3	No-of-participants 824 834	Eighty-six
+T4	eligibility 835 876	women at increased risk for breast cancer
+T5	average-age 1099 1109	54.5 years
+T6	outcome 1623 1630	AH rate
+T7	outcome-Measure 976 1082	5-year Gail score of >1.67% or a history of atypical hyperplasia (AH), lobular carcinoma, or breast cancer
+T8	intervention-value 1635 1639	3.7%
+T9	outcome 1648 1668	hyperplasia (H) rate
+T10	intervention-value 1673 1678	11.1%
+T11	outcome 1698 1705	AH rate
+T12	control-value 1710 1715	12.9%
+T13	outcome 1721 1727	H rate
+T14	control-value 1732 1737	24.7%

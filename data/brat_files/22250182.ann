@@ -1,0 +1,15 @@
+T1	ethinicity 363 373	black race
+T3	outcome-Measure 528 561	disease-free and overall survival
+T4	No-of-participants 847 851	4817
+T5	ethinicity 887 892	black
+T6	intervention-participants 871 874	405
+T7	ethinicity 908 916	nonblack
+T2	outcome 955 986	rate of triple-negative disease
+T8	intervention-value 988 993	31.9%
+T9	control-value 997 1002	17.2%
+T10	outcome 1150 1171	disease-free survival
+T11	intervention-value 1222 1227	76.7%
+T12	control-value 1231 1236	84.5%
+T13	outcome 1337 1353	overall survival
+T14	intervention-value 1399 1404	87.6%
+T15	control-value 1408 1413	91.9%

@@ -1,0 +1,10 @@
+T1	intervention 56 93	preemptive analgesia with bupivacaine
+T2	condition 418 443	post-operative acute pain
+T3	control 653 660	placebo
+T4	outcome-Measure 678 716	intraoperative consumption of fentanyl
+T6	outcome-Measure 798 823	subjective pain intensity
+T7	No-of-participants 959 962	112
+T8	outcome 1202 1243	lower fentanyl consumption during surgery
+T9	outcome 1257 1313	lower morphine (delivered by means of a PCA) consumption
+T5	outcome-Measure 722 788	postoperative consumption of morphine delivered using a PCA method
+T10	outcome 1382 1402	lower pain intensity

@@ -1,0 +1,25 @@
+T1	intervention 20 32	Mepitel Film
+T2	condition 42 78	radiation-induced moist desquamation
+T3	No-of-participants 139 141	78
+T4	No-of-participants 464 466	80
+T5	eligibility 467 517	breast cancer patients receiving radiation therapy
+T6	duration 533 568	between October 2012 and April 2013
+T7	No-of-participants 570 572	78
+T8	control 713 726	aqueous cream
+T9	outcome-Measure 787 809	skin reaction severity
+T10	outcome 986 1016	reaction in cream-treated skin
+T11	control-value 1059 1062	26%
+T12	outcome 1076 1089	RTOG grades I
+T13	control-value 1091 1094	28%
+T14	outcome 1096 1099	IIA
+T15	control-value 1101 1104	46%
+T16	outcome 1106 1109	IIB
+T17	control-value 1111 1114	18%
+T18	outcome 1116 1119	III
+T19	control-value 1121 1123	8%
+T20	outcome 1153 1166	skin reaction
+T21	intervention-value 1131 1134	44%
+T22	outcome 1252 1265	RTOG grades I
+T23	intervention-value 1267 1270	36%
+T24	outcome 1272 1275	IIA
+T25	intervention-value 1277 1279	8%

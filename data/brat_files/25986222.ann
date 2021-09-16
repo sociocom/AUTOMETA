@@ -1,0 +1,18 @@
+T1	intervention 22 30	exercise
+T2	eligibility 50 122	breast cancer patients under adjuvant or neoadjuvant chemotherapy (SAPA)
+T3	location 875 881	France
+T4	No-of-participants 883 893	Forty-four
+T5	eligibility 894 970	patients treated with adjuvant or neoadjuvant chemotherapy for breast cancer
+T6	control 1009 1022	control group
+T7	duration 1068 1074	3-week
+T8	outcome-Measure 1199 1223	cardiopulmonary function
+T9	outcome-Measure 1310 1338	6-minute Walking Test (6MWT)
+T10	outcome-Measure 1358 1375	muscular strength
+T11	outcome-Measure 1377 1384	fatigue
+T12	outcome-Measure 1386 1401	quality of life
+T13	outcome-Measure 1403 1426	physical activity level
+T14	outcome-Measure 1432 1450	anxiety/depression
+T15	outcome 1465 1472	VO2peak
+T16	outcome 1706 1733	intention-to-treat analysis
+T17	outcome 1765 1782	protocol analysis
+T18	outcome 1911 1987	cardiopulmonary exercise test, 6MWT, quadriceps strength, or quality of life

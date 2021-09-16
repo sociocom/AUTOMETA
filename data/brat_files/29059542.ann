@@ -1,0 +1,15 @@
+T1	intervention 64 86	dance movement therapy
+T2	No-of-participants 632 635	121
+T3	condition 90 113	diurnal cortisol slopes
+T4	ethinicity 636 643	Chinese
+T5	eligibility 488 544	breast cancer patients undergoing radiotherapy treatment
+T6	intervention-participants 692 694	63
+T7	control 700 707	control
+T8	control-participants 711 713	58
+T9	outcome-Measure 886 902	perceived stress
+T10	outcome-Measure 904 911	fatigue
+T11	outcome-Measure 913 917	pain
+T12	outcome-Measure 923 940	sleep disturbance
+T13	outcome-Measure 959 1036	salivary cortisol samples at baseline (Time 1) and post-intervention (Time 2)
+T14	outcome 1188 1221	effect on diurnal cortisol slopes
+T15	outcome 1273 1289	perceived stress

@@ -1,0 +1,10 @@
+T1	intervention 35 73	wearable technology-based intervention
+T2	No-of-participants 731 733	83
+T3	eligibility 734 841	inactive, postmenopausal women diagnosed with stage I-III breast cancer who had completed primary treatment
+T4	control 915 928	control group
+T5	duration 972 979	12-week
+T7	No-of-participants 1169 1171	80
+T6	outcome-Measure 988 992	MVPA
+T8	outcome-Measure 997 1015	sedentary behavior
+T9	outcome 1401 1477	decrease in both total sitting time and prolonged bouts (≥20 min) of sitting
+T10	outcome 1244 1288	significant between-group difference in MVPA

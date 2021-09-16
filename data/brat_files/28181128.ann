@@ -1,0 +1,7 @@
+T1	intervention 11 19	exercise
+T2	condition 23 28	sleep
+T3	eligibility 41 86	breast cancer patients receiving radiotherapy
+T4	duration 340 347	12-week
+T5	No-of-participants 487 490	160
+T6	outcome 884 908	decreased sleep problems
+T7	control 925 949	relaxation control group

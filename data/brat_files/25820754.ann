@@ -1,0 +1,12 @@
+T1	intervention 76 89	pegfilgrastim
+T2	control 103 113	filgrastim
+T3	ethinicity 117 124	Chinese
+T4	eligibility 125 174	breast cancer patients receiving TAC chemotherapy
+T5	location 799 804	China
+T6	No-of-participants 814 817	171
+T7	outcome-Measure 1124 1130	safety
+T8	outcome-Measure 1111 1119	Efficacy
+T9	outcome 1169 1206	mean duration of grade 3+ neutropenia
+T10	outcome 1431 1464	incidence of grade 3+ neutropenia
+T11	outcome 1565 1636	febrile neutropenia, time to neutrophil recovery and neutrophil profile
+T12	outcome 1693 1708	safety profiles

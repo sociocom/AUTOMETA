@@ -1,0 +1,21 @@
+T1	intervention 33 59	postoperative radiotherapy
+T2	eligibility 64 85	stage I breast cancer
+T3	duration 87 94	20-year
+T4	No-of-participants 320 344	Three hundred eighty-one
+T5	eligibility 345 375	women with pT1N0 breast cancer
+T6	control 439 489	without (non-XRT group) postoperative radiotherapy
+T7	outcome-Measure 547 582	cumulative proportion of recurrence
+T8	outcome-Measure 584 603	breast cancer death
+T9	outcome-Measure 609 628	all-cause mortality
+T11	intervention-value 719 724	30.9%
+T12	control-value 746 751	45.1%
+T13	outcome 941 945	died
+T14	intervention-value 905 910	50.4%
+T15	control-value 960 965	54.0%
+T17	intervention-value 1132 1137	27.1%
+T18	control-value 1159 1164	24.9%
+T19	outcome 1258 1313	cumulative incidence of first breast cancer of any type
+T10	outcome 634 714	cumulative probability of a first breast cancer event of any type after 20 years
+T16	outcome 1025 1127	cumulative probability of contralateral cancer or death as a result of cancer other than breast cancer
+T20	intervention-value 1318 1323	24.8%
+T21	control-value 1345 1350	36.1%

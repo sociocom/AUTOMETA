@@ -1,0 +1,15 @@
+T1	intervention 22 30	exercise
+T2	eligibility 323 396	Women who were within 4-12 weeks of surgery for stage I-III breast cancer
+T3	intervention 429 437	exercise
+T4	intervention 443 462	ymphedema education
+T5	control 479 496	patient education
+T6	outcome-Measure 523 560	cancer therapy-breast cancer (FACT-B)
+T7	outcome-Measure 562 572	6-min walk
+T8	outcome-Measure 578 588	arm volume
+T9	duration 633 642	18 months
+T10	No-of-participants 998 1001	104
+T11	No-of-participants 1009 1011	82
+T12	ethinicity 1087 1096	Caucasian
+T13	average-age 1058 1076	53.6 (32-82) years
+T14	outcome 1411 1451	Changes in FACT-B scores and arm volumes
+T15	outcome 1597 1614	physical function

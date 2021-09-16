@@ -1,0 +1,10 @@
+T1	intervention 0 38	Cognitive Behavioral Stress Management
+T2	eligibility 43 82	Healthy Women at Risk for Breast Cancer
+T3	duration 335 342	10-week
+T4	intervention-participants 521 523	82
+T5	control 530 556	wait-list comparison group
+T6	control-participants 562 564	76
+T7	outcome-Measure 567 655	Baseline to postintervention effects of CBSM on depressive symptoms and perceived stress
+T8	outcome 742 781	lower posttreatment depressive symptoms
+T9	outcome 808 824	perceived stress
+T10	outcome 939 953	lower distress

@@ -1,0 +1,22 @@
+T1	intervention 354 363	denosumab
+T3	eligibility 563 611	patients with bone metastases from breast cancer
+T4	No-of-participants 617 622	2,046
+T5	eligibility 625 661	castration-resistant prostate cancer
+T6	No-of-participants 667 672	1,901
+T7	eligibility 677 696	other solid tumours
+T8	No-of-participants 702 707	1,597
+T9	outcome-Measure 710 723	Pain severity
+T10	outcome-Measure 725 742	pain interference
+T11	outcome-Measure 744 774	health-related quality of life
+T12	outcome-Measure 779 792	analgesic use
+T13	outcome 858 870	no/mild pain
+T14	intervention-value 872 876	53 %
+T15	intervention-value 878 883	1,386
+T16	intervention-participants 884 889	2,620
+T17	control-value 902 906	50 %
+T2	control 368 383	zoledronic acid
+T18	control-value 908 913	1,297
+T19	control-participants 914 919	2,578
+T20	outcome 957 986	onset of moderate/severe pain
+T21	outcome 1140 1165	overall pain interference
+T22	outcome 1347 1377	health-related quality of life

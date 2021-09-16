@@ -1,0 +1,9 @@
+T1	intervention 0 8	Exercise
+T2	condition 20 44	hip bone mineral density
+T3	average-age 869 879	≥ 50 years
+T4	eligibility 902 946	post-menopausal, post-adjuvant treatment BCS
+T5	No-of-participants 952 955	106
+T6	control 1030 1045	control program
+T7	outcome-Measure 1094 1196	effect modification by age on BMD at three hip sites (greater trochanter, femoral neck, and total hip)
+T8	outcome 1322 1357	effect of exercise on total hip BMD
+T9	outcome 1537 1576	skeletal response to loading at the hip

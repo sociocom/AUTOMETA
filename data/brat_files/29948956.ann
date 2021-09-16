@@ -1,0 +1,16 @@
+T1	intervention 39 49	pyridoxine
+T2	condition 72 90	hand-foot syndrome
+T3	eligibility 552 602	patients with advanced or metastatic breast cancer
+T4	control 690 703	no pyridoxine
+T5	outcome-Measure 911 985	time to onset of grade 2 or worse HFS from the start of protocol treatment
+T6	No-of-participants 998 1001	135
+T7	intervention-participants 1050 1052	67
+T8	control-participants 1076 1078	68
+T9	outcome 1088 1108	Grade 2 or worse HFS
+T10	intervention-value 1122 1124	19
+T11	intervention-participants 1128 1130	66
+T12	intervention-value 1141 1146	28.8%
+T13	control-value 1155 1157	21
+T14	control-participants 1161 1163	67
+T15	control-value 1174 1179	31.3%
+T16	outcome 1243 1287	median time to onset of grade 2 or worse HFS

@@ -1,0 +1,16 @@
+T1	intervention 0 6	CYP2D6
+T2	intervention 11 17	UGT2B7
+T3	eligibility 474 579	postmenopausal patients with hormone receptor-positive early-stage (stages I, II, and IIIA) breast cancer
+T5	No-of-participants 741 745	1203
+T6	intervention-participants 802 805	615
+T7	control-participants 837 840	588
+T8	No-of-participants 943 947	1209
+T9	intervention-participants 981 984	606
+T10	control-participants 1016 1019	603
+T11	outcome-Measure 1332 1350	distant recurrence
+T12	outcome-Measure 1374 1388	any recurrence
+T14	outcome 1879 1982	near-null association was observed between UGT2B7 genotype and recurrence in tamoxifen-treated patients
+T15	outcome 1984 2096	No associations were observed between CYP2D6 and UGT2B7 genotypes and recurrence in anastrozole-treated patients
+T13	outcome 1612 1736	no statistically significant associations were observed between CYP2D6 genotype and recurrence in tamoxifen-treated patients
+T4	intervention 630 638	Arimidex
+T16	intervention 640 649	Tamoxifen

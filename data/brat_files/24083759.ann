@@ -1,0 +1,24 @@
+T1	intervention 15 74	recombinant human epidermal growth factor (EGF)-based cream
+T2	intervention 86 106	radiation dermatitis
+T3	duration 406 442	Between December 2012 and April 2013
+T4	No-of-participants 444 446	40
+T5	eligibility 447 518	breast cancer patients who received postoperative RT were prospectively
+T6	control 633 677	general supportive skin care (control group)
+T7	outcome-Measure 683 712	grade of radiation dermatitis
+T8	outcome-Measure 717 727	pain score
+T9	outcome 969 1018	radiation dermatitis of maximum grade 3, 2, and 1
+T12	intervention-value 1055 1056	6
+T14	outcome 1124 1173	radiation dermatitis of maximum grade 3, 2, and 1
+T17	control-value 1210 1211	2
+T19	outcome 1278 1319	incidence of grade 3 radiation dermatitis
+T20	outcome 1479 1489	pain score
+T10	intervention-value 1032 1033	3
+T21	intervention-value 1035 1038	15%
+T11	intervention-value 1041 1043	11
+T22	intervention-value 1045 1048	55%
+T15	control-value 1187 1188	8
+T23	control-value 1190 1193	40%
+T16	control-value 1196 1198	10
+T24	control-value 1200 1203	50%
+T18	control-value 1222 1225	10%
+T13	intervention-value 1067 1070	30%

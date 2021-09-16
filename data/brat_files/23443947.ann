@@ -1,0 +1,16 @@
+T1	intervention 32 41	lidocaine
+T2	duration 613 648	Between January 2006 and April 2009
+T3	No-of-participants 650 653	140
+T4	eligibility 654 687	patients with early breast cancer
+T5	control 753 801	lidocaine cream and intradermal Tc-99m (control)
+T6	intervention 898 925	sodium bicarbonate (NaHCO3)
+T7	outcome 1165 1180	patient comfort
+T8	outcome 1190 1213	SLN identification rate
+T9	outcome 1237 1268	Technical aspects of SLN biopsy
+T10	outcome 1441 1465	SLN identification rates
+T11	control-value 1506 1510	96 %
+T12	intervention-value 1524 1528	90 %
+T13	intervention-value 1551 1555	97 %
+T14	intervention-value 1592 1596	90 %
+T15	outcome 1644 1675	SLN 2/SLN 1 ex vivo count ratio
+T16	outcome 1685 1708	number of SLNs detected

@@ -1,0 +1,8 @@
+T1	intervention 422 463	sodium-2-mercaptoethane sulfonate (Mesna)
+T2	intervention 487 498	doxorubicin
+T3	No-of-participants 637 647	Thirty-two
+T4	control 728 734	saline
+T5	outcome-Measure 989 1054	Pre-treatment and post-treatment measurements of oxidative stress
+T6	outcome-Measure 1056 1061	TNF-α
+T7	outcome-Measure 1066 1083	related cytokines
+T8	outcome 1219 1296	levels of TNF-related cytokines and TNF-receptor 1 (TNFR1) and TNF-receptor 2

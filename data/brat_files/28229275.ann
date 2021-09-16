@@ -1,0 +1,21 @@
+T1	condition 36 54	sexual dysfunction
+T2	eligibility 58 142	postmenopausal breast cancer survivors starting adjuvant aromatase inhibitor therapy
+T3	No-of-participants 360 371	Fifty-seven
+T4	eligibility 372 453	postmenopausal women with early stage breast cancer starting aromatase inhibitors
+T5	control 567 583	Usual Care group
+T6	intervention 675 694	vaginal moisturizer
+T8	intervention 797 804	dilator
+T10	outcome-Measure 932 967	Female Sexual Function Index (FSFI)
+T11	outcome-Measure 969 1016	Menopausal Sexual Interest Questionnaire (MSIQ)
+T12	outcome-Measure 1018 1063	Female Sexual Distress Scale-Revised (FSDS-R)
+T13	outcome-Measure 1071 1095	menopausal symptom scale
+T14	No-of-participants 1097 1107	Forty-nine
+T15	average-age 1145 1160	Mean age was 59
+T16	ethinicity 1174 1196	non-Hispanic Caucasian
+T17	outcome 1198 1213	Sexual function
+T18	outcome 1331 1347	less dyspareunia
+T19	outcome 1363 1378	sexual distress
+T20	outcome 1516 1532	FSFI total score
+T21	outcome 1585 1607	stable sexual function
+T7	intervention 775 792	vaginal lubricant
+T9	intervention 824 862	educational website and phone coaching

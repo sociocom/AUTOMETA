@@ -1,0 +1,15 @@
+T1	intervention 14 24	Pregabalin
+T2	intervention 44 53	Lidocaine
+T3	condition 84 100	Neuropathic Pain
+T4	No-of-participants 755 758	100
+T5	eligibility 759 807	female patients undergoing breast cancer surgery
+T6	control 925 932	placebo
+T7	No-of-participants 1084 1087	100
+T8	outcome 1234 1261	persistent neuropathic pain
+T9	outcome 1355 1397	development of persistent neuropathic pain
+T10	intervention-value 1399 1404	43.1%
+T11	control-value 1408 1413	63.3%
+T12	outcome 1498 1513	persistent pain
+T13	intervention-value 1515 1518	60%
+T14	control-value 1522 1525	46%
+T15	outcome 1630 1713	acute postoperative pain, opioid consumption, pain interference, or quality of life

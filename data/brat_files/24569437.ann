@@ -1,0 +1,15 @@
+T1	duration 324 341	From 1992 to 1997
+T2	No-of-participants 343 349	13,388
+T3	eligibility 350 457	women with estimated 5-year breast cancer risk greater than 1.66% or a history of lobular carcinoma in situ
+T4	intervention 530 539	tamoxifen
+T5	control 547 554	placebo
+T6	outcome-Measure 681 707	baseline cigarette smoking
+T7	outcome-Measure 709 739	leisure-time physical activity
+T8	outcome-Measure 741 760	alcohol consumption
+T9	outcome 853 917	breast cancer, lung cancer, colon cancer, and endometrial cancer
+T10	outcome 972 993	risk of breast cancer
+T11	outcome 1066 1077	lung cancer
+T12	outcome 1147 1159	colon cancer
+T13	outcome 1252 1270	breast cancer risk
+T14	outcome 1419 1437	endometrial cancer
+T15	outcome 1541 1561	risk of colon cancer

@@ -1,0 +1,16 @@
+T1	intervention 0 35	Perioperative intravenous lidocaine
+T2	condition 162 197	persistent postsurgical pain (PPSP)
+T3	No-of-participants 399 409	Thirty-six
+T4	control 681 694	control group
+T5	outcome-Measure 753 764	Pain scores
+T6	outcome-Measure 769 790	analgesic consumption
+T7	outcome-Measure 914 918	PPSP
+T8	outcome-Measure 923 945	secondary hyperalgesia
+T11	outcome 1044 1048	PPSP
+T12	outcome 1133 1167	pain intensity-visual analog scale
+T13	outcome 1227 1249	Secondary hyperalgesia
+T14	outcome 1452 1473	analgesic consumption
+T9	intervention-value 947 950	Two
+T15	intervention-value 952 957	11.8%
+T10	control-value 995 996	9
+T16	control-value 998 1003	47.4%

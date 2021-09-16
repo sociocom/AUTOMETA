@@ -1,0 +1,18 @@
+T1	duration 0 12	Fifteen-year
+T2	intervention 56 67	fenretinide
+T3	No-of-participants 494 498	1739
+T4	average-age 505 515	aged 30-70
+T5	intervention-participants 517 520	872
+T6	control-participants 548 551	867
+T7	control 559 570	observation
+T8	outcome-Measure 662 690	second primary breast cancer
+T9	outcome 727 758	number of second breast cancers
+T10	intervention-value 763 766	168
+T11	control-value 794 797	190
+T12	intervention-value 870 872	83
+T13	control-value 907 910	126
+T16	intervention-value 993 995	85
+T17	control-value 1000 1002	64
+T19	outcome 1292 1361	difference in cancers in other organs, distant metastases or survival
+T14	outcome 934 956	in premenopausal women
+T15	outcome 1010 1033	in postmenopausal women

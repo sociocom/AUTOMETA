@@ -1,0 +1,8 @@
+T1	intervention 0 21	Nevasic audio program
+T2	condition 44 84	chemotherapy induced nausea and vomiting
+T3	control 871 886	usual care only
+T4	No-of-participants 1105 1107	99
+T5	No-of-participants 1151 1153	15
+T6	outcome 1319 1379	did not detect any evidence for the effectiveness of Nevasic
+T7	outcome 1435 1459	less use of anti-emetics
+T8	outcome 1487 1533	non-significant improvement in quality of life

@@ -1,0 +1,10 @@
+T1	intervention 0 7	Aspirin
+T2	No-of-participants 643 646	144
+T3	eligibility 647 675	healthy postmenopausal women
+T4	eligibility 31 51	postmenopausal women
+T5	duration 710 719	2005-2007
+T6	outcome-Measure 1016 1079	differences in the geometric mean outcome changes at six months
+T7	control 1100 1107	placebo
+T8	average-age 1186 1190	59.4
+T9	outcome 1321 1344	serum estrogens or SHBG
+T10	outcome 1413 1431	Stratifying by BMI

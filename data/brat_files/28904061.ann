@@ -1,0 +1,15 @@
+T1	intervention 33 50	Green Tea Extract
+T2	eligibility 95 151	Postmenopausal Women at Increased Risk of Breast Cancer.
+T3	No-of-participants 526 531	1,075
+T4	No-of-participants 865 868	932
+T5	intervention-participants 881 884	462
+T6	control-participants 896 899	470
+T7	control 903 910	placebo
+T8	duration 734 743	12 months
+T9	outcome 976 1007	percent MD (PMD) or absolute MD
+T10	outcome 1088 1099	reduced PMD
+T11	intervention-value 1103 1108	4.40%
+T12	control-value 1145 1150	1.02%
+T13	outcome 1022 1052	In younger women (50-55 years)
+T14	outcome 1214 1238	no effect in older women
+T15	outcome 1290 1306	induce MD change

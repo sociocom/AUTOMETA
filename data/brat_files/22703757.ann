@@ -1,0 +1,18 @@
+T1	intervention 0 18	Lanreotide Autogel
+T2	condition 29 40	lymphorrhea
+T3	duration 389 437	between April 1st, 2008, and December 31st, 2010
+T4	outcome-Measure 468 554	lymphorrhea volume (ml) in the axillary drain during the first four postoperative days
+T5	outcome-Measure 590 633	number of days until axillary drain removal
+T6	outcome-Measure 635 657	hospital stay duration
+T8	outcome-Measure 718 755	umber of cases with seroma aspiration
+T9	outcome-Measure 760 788	number of seroma aspirations
+T10	outcome-Measure 790 855	evaluation of wound, arm pain and mobility on days 15, 30 and 180
+T7	outcome-Measure 666 715	lymphorrhea volume (ml) up to days 15, 30 and 180
+T11	No-of-participants 868 871	148
+T12	No-of-participants 922 925	145
+T13	control-participants 1022 1024	73
+T14	control 1047 1054	placebo
+T15	intervention-participants 1059 1061	72
+T16	outcome 1151 1186	reduction of the lymphorrhea volume
+T17	outcome 1378 1432	no significant difference for the secondary end points
+T18	outcome 1502 1520	lymphorrhea volume

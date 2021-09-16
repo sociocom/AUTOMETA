@@ -1,0 +1,15 @@
+T1	intervention 433 447	weight lifting
+T2	duration 541 577	Between October 2005 and August 2008
+T3	duration 608 616	12-month
+T4	control 701 714	standard care
+T5	No-of-participants 721 724	295
+T6	eligibility 725 765	survivors of nonmetastatic breast cancer
+T7	outcome-Measure 862 905	incident deterioration of physical function
+T8	outcome 1052 1135	proportion of participants who experienced incident physical function deterioration
+T9	control-value 1156 1161	16.3%
+T10	control-value 1163 1165	24
+T11	control-participants 1166 1169	147
+T12	intervention-value 1196 1200	8.1%
+T13	intervention-value 1202 1204	12
+T14	intervention-participants 1205 1208	148
+T15	outcome 1317 1331	adverse events

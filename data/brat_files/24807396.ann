@@ -1,0 +1,11 @@
+T1	intervention 16 24	Fentanyl
+T2	intervention 29 48	Flurbiprofen Axetil
+T3	eligibility 101 143	Women Undergoing Surgery for Breast Cancer
+T4	No-of-participants 654 659	Forty
+T5	eligibility 666 733	with primary breast cancer undergoing a modified radical mastectomy
+T6	control 836 850	fentanyl alone
+T7	outcome-Measure 1003 1048	changes in the VEGF-C concentrations in serum
+T8	outcome 1085 1102	analgesic effects
+T9	outcome 1160 1203	mean postoperative concentrations of VEGF-C
+T10	outcome 1320 1362	mean postoperative concentrations of TNF-α
+T11	outcome 1478 1520	mean postoperative concentrations of IL-1ß

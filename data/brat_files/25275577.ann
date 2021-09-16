@@ -1,0 +1,16 @@
+T1	intervention 10 31	intravenous lidocaine
+T2	eligibility 61 91	patients undergoing mastectomy
+T3	No-of-participants 619 630	Seventy-one
+T4	eligibility 631 672	patients undergoing breast cancer surgery
+T5	control 714 721	placebo
+T6	control-participants 736 738	34
+T7	intervention-participants 770 772	37
+T8	outcome-Measure 912 965	Intraoperative and postoperative morphine consumption
+T9	outcome-Measure 982 1013	Postoperative pain scores, PONV
+T10	outcome-Measure 1019 1026	fatigue
+T11	outcome-Measure 1079 1118	Duration of postoperative hospital stay
+T12	outcome 1233 1285	intraoperative or postoperative morphine consumption
+T13	outcome 1328 1374	Overall pain scores either at rest or activity
+T14	outcome 1416 1420	PONV
+T15	outcome 1434 1441	fatigue
+T16	outcome 1458 1497	duration of postoperative hospital stay

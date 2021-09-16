@@ -1,0 +1,12 @@
+T1	intervention 0 38	Ultrasound-guided serratus plane block
+T2	duration 727 755	from March 2016 to June 2017
+T3	No-of-participants 757 768	Seventy-two
+T4	eligibility 769 810	women scheduled for breast cancer surgery
+T5	outcome-Measure 958 1036	40-item Quality of Recovery questionnaire score 24 hours postoperatively hours
+T6	control 907 927	physiological saline
+T7	outcome-Measure 1063 1236	postoperative pain intensity, cumulative opioid consumption, postoperative nausea and vomiting, dizziness, post anaesthesia care unit discharge time and patient satisfaction
+T8	outcome 1242 1335	global median [IQR] 40-item Quality of Recovery questionnaire score at 24 postoperative hours
+T9	outcome 1557 1582	postoperative pain scores
+T10	outcome 1671 1816	postoperative cumulative opioid consumption, the incidence of postoperative nausea and vomiting and the post anaesthesia care unit discharge time
+T11	outcome 1831 1858	patient satisfaction scores
+T12	condition 48 83	pain relief and quality of recovery

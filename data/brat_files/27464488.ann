@@ -1,0 +1,12 @@
+T1	intervention 30 34	diet
+T2	intervention 39 47	exercise
+T3	eligibility 51 94	overweight or obese breast cancer survivors
+T4	duration 751 758	6-month
+T5	duration 802 811	18 months
+T6	No-of-participants 1187 1190	260
+T7	outcome-Measure 1686 1700	dietary intake
+T8	outcome-Measure 1791 1806	quality of life
+T9	outcome-Measure 1811 1818	anxiety
+T10	outcome-Measure 2021 2047	lipid and hormone profiles
+T11	outcome-Measure 2049 2065	Body composition
+T12	outcome-Measure 2156 2188	changes of fat and fat-free mass

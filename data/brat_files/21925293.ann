@@ -1,0 +1,15 @@
+T1	intervention 0 44	Electrothermal bipolar vessel sealing system
+T2	No-of-participants 337 340	100
+T3	eligibility 367 400	Those needing axillary dissection
+T4	control 446 478	conventional axillary dissection
+T5	intervention-participants 485 487	50
+T6	control-participants 485 487	50
+T8	intervention 431 439	LigaSure
+T9	intervention-value 645 650	30.8%
+T10	control-value 655 660	69.2%
+T14	outcome 889 933	rate of hematomas, reoperations or infection
+T15	outcome 987 1028	surgical time and length of hospital stay
+T7	outcome 593 623	less intraoperative blood loss
+T11	outcome 674 701	quicker axillary dissection
+T12	outcome 737 767	fewer days of suction drainage
+T13	outcome 803 826	shorter hospitalization

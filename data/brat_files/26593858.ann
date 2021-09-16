@@ -1,0 +1,10 @@
+T1	intervention 0 19	Resistance training
+T2	condition 29 36	fatigue
+T3	condition 41 56	quality of life
+T4	No-of-participants 330 332	39
+T5	eligibility 333 369	women who had survived breast cancer
+T6	average-age 376 394	age (y) 51.9 ± 8.8
+T7	outcome-Measure 457 464	fatigue
+T8	outcome-Measure 561 564	QOL
+T9	outcome 906 928	Perceptions of fatigue
+T10	outcome 1070 1073	QOL

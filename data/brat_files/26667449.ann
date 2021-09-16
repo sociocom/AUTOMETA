@@ -1,0 +1,13 @@
+T1	intervention 46 55	Letrozole
+T2	eligibility 75 129	Postmenopausal Women with Increased Breast Cancer Risk
+T3	No-of-participants 647 650	112
+T4	control 771 788	standard dose arm
+T5	outcome-Measure 909 946	suppression in serum estradiol levels
+T6	outcome-Measure 1014 1038	changes in serum estrone
+T7	outcome-Measure 1040 1052	testosterone
+T8	outcome-Measure 1054 1095	C-telopeptide (marker of bone resorption)
+T9	outcome-Measure 1097 1110	lipid profile
+T10	outcome-Measure 1116 1146	quality-of-life measures (QoL)
+T11	outcome 1180 1200	estrogen suppression
+T12	outcome 1276 1323	reduction in serum estradiol and estrone levels
+T13	outcome 1397 1481	changes in C-telopeptide levels, lipid profile, adverse events (AE), or QoL measures

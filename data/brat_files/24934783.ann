@@ -1,0 +1,14 @@
+T1	intervention 22 49	telephone-based weight loss
+T2	eligibility 66 125	postmenopausal women with breast cancer receiving letrozole
+T3	duration 439 447	24-month
+T4	eligibility 670 775	Women receiving adjuvant letrozole for T1-3N0-3M0 breast cancer with a body mass index (BMI) ≥ 24 kg/m(2)
+T5	outcome-Measure 948 969	disease-free survival
+T6	No-of-participants 997 1000	338
+T7	outcome 1055 1071	Mean weight loss
+T8	intervention-value 1166 1170	5.3%
+T9	control-value 1173 1177	0.7%
+T10	outcome 1178 1189	at 6 months
+T11	intervention-value 1210 1214	3.6%
+T12	control-value 1217 1221	0.4%
+T13	outcome 1222 1234	at 24 months
+T14	outcome 1474 1514	Hospitalization rates and medical events

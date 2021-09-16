@@ -1,0 +1,12 @@
+T1	intervention 35 56	Prognostic Signatures
+T2	eligibility 429 514	women with early ER-positive breast cancer who received endocrine therapy for 5 years
+T3	No-of-participants 563 566	774
+T4	eligibility 567 649	postmenopausal women with ER-positive ERBB2 (formerly HER2)-negative breast cancer
+T5	duration 1123 1160	from January 2009, through April 2015
+T6	outcome-Measure 1191 1422	compare the prognostic value of these signatures in addition to the Clinical Treatment Score (nodal status, tumor size, grade, age, and endocrine treatment) for distant recurrence for 0 to 10 years and 5 to 10 years after diagnosis
+T7	No-of-participants 1565 1568	774
+T8	outcome 2053 2069	recurrence score
+T9	outcome 2109 2143	4-marker immunohistochemical score
+T10	outcome 1797 1800	ROR
+T11	outcome 1863 1866	BCI
+T12	outcome 1901 1907	EPclin

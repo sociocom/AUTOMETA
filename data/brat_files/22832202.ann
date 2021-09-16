@@ -1,0 +1,15 @@
+T1	intervention 299 308	tamoxifen
+T2	condition 334 373	endometrium and gynaecological symptoms
+T3	No-of-participants 386 388	96
+T4	intervention-participants 438 440	45
+T5	control 445 452	placebo
+T6	control-participants 461 463	51
+T7	duration 475 482	5 years
+T8	duration 654 679	between 2/1995 and 7/2009
+T9	location 683 690	Finland
+T10	outcome 882 908	discontinued the treatment
+T11	intervention-value 935 938	44%
+T12	control-value 946 949	22%
+T13	outcome 1071 1092	endometrial thickness
+T14	outcome 1317 1370	referrals to hospitals due to gynaecological findings
+T15	outcome 1551 1571	discontinuation rate

@@ -1,0 +1,11 @@
+T1	intervention 21 62	mindfulness-based stress reduction (MBSR)
+T2	location 688 693	China
+T3	ethinicity 991 998	Chinese
+T4	No-of-participants 1113 1116	418
+T5	eligibility 1117 1178	BC survivors will be recruited from 10 low-income communities
+T6	location 1182 1190	Shanghai
+T7	control 1266 1287	waitlisted usual care
+T8	duration 1405 1411	8-week
+T9	outcome-Measure 1726 1804	measures of psychological symptoms (depression, anxiety, and perceived stress)
+T10	outcome-Measure 1806 1821	quality of life
+T11	outcome-Measure 1827 1847	medication adherence

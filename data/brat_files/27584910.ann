@@ -1,0 +1,9 @@
+T1	intervention 10 22	decision aid
+T2	eligibility 78 114	women with a BRCA1 or BRCA2 mutation
+T3	eligibility 464 527	women with a BRCA mutation with no previous diagnosis of cancer
+T4	control 621 647	usual care (control group)
+T5	outcome-Measure 827 842	decision making
+T6	outcome-Measure 847 871	psychosocial functioning
+T7	No-of-participants 873 890	One hundred fifty
+T8	outcome 914 949	Mean cancer-related distress scores
+T9	outcome 1103 1148	Decisional conflict scores declined over time

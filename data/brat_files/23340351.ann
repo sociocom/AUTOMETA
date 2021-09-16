@@ -1,0 +1,14 @@
+T1	intervention 81 92	ropivacaine
+T2	condition 134 160	chronic postoperative pain
+T3	No-of-participants 551 554	236
+T4	control 648 655	placebo
+T5	outcome-Measure 770 780	Acute pain
+T6	outcome-Measure 782 803	analgesic consumption
+T7	outcome-Measure 805 811	nausea
+T8	outcome-Measure 816 824	vomiting
+T9	outcome 1150 1168	postoperative pain
+T10	outcome 1313 1338	incidence of chronic pain
+T11	intervention-value 1343 1346	33%
+T12	control-value 1351 1354	27%
+T13	outcome 1437 1488	brief pain inventory, neuropathic pain, and anxiety
+T14	outcome 1573 1586	complications

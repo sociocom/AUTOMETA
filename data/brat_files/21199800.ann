@@ -1,0 +1,19 @@
+T1	intervention 218 249	low-fat, high-carbohydrate diet
+T2	location 378 384	Canada
+T3	No-of-participants 399 404	4,690
+T4	eligibility 405 446	women with extensive mammographic density
+T5	control 497 513	comparison group
+T6	duration 771 778	7 years
+T7	duration 801 809	10 years
+T8	outcome-Measure 832 854	invasive breast cancer
+T9	outcome 856 923	Percentage of calories from fat in the intervention group decreased
+T10	intervention-value 929 932	30%
+T11	intervention-value 948 951	20%
+T12	control-value 985 987	9%
+T13	control-value 991 994	10%
+T14	outcome 933 944	at baseline
+T15	outcome 952 971	after randomization
+T16	intervention-value 1050 1053	118
+T17	outcome 1054 1077	invasive breast cancers
+T18	control-value 1108 1111	102
+T19	outcome 1327 1371	Greater weight and lower carbohydrate intake

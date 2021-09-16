@@ -1,0 +1,6 @@
+T1	intervention 103 111	exercise
+T2	condition 189 203	arm lymphedema
+T3	eligibility 834 939	Women receiving adjuvant chemotherapy for breast cancer who have undergone axillary lymph node dissection
+T4	outcome-Measure 1256 1320	Changes in extracellular fluid (L-Dex score) and arm volume (ml)
+T5	outcome-Measure 1422 1464	Symptom severity related to arm lymphedema
+T6	No-of-participants 1670 1672	20

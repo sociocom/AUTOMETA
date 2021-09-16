@@ -1,0 +1,24 @@
+T1	intervention 41 50	tamoxifen
+T2	No-of-participants 394 398	1884
+T3	eligibility 399 435	recently postmenopausal women on HRT
+T4	control 497 504	placebo
+T5	duration 509 516	5 years
+T6	outcome-Measure 544 567	breast cancer incidence
+T7	outcome 621 635	breast cancers
+T8	control-value 618 620	24
+T9	intervention-value 651 653	19
+T10	outcome 736 762	trends in luminal-A tumors
+T11	outcome 1024 1047	coronary heart syndrome
+T12	control-value 1049 1050	6
+T13	intervention-value 1058 1059	4
+T14	outcome 1062 1084	cerebrovascular events
+T15	control-value 1086 1087	2
+T16	intervention-value 1095 1096	5
+T17	outcome 1099 1102	VTE
+T18	control-value 1104 1105	2
+T19	intervention-value 1113 1114	5
+T20	outcome 1120 1135	uterine cancers
+T21	control-value 1137 1138	3
+T22	intervention-value 1146 1147	1
+T23	outcome 1150 1168	Vasomotor symptoms
+T24	intervention-value 1174 1177	50%

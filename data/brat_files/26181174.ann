@@ -1,0 +1,14 @@
+T3	No-of-participants 491 497	27,347
+T4	eligibility 498 518	postmenopausal women
+T5	average-age 524 538	50 to 79 years
+T6	duration 570 587	from 1993 to 1998
+T7	No-of-participants 664 670	16,608
+T8	control 829 836	placebo
+T9	No-of-participants 891 897	10,739
+T10	duration 1044 1053	7.2 years
+T11	outcome 1995 2022	invasive breast cancer risk
+T12	outcome 1831 1849	breast cancer risk
+T13	outcome 1631 1654	breast cancer incidence
+T14	outcome 1306 1319	breast cancer
+T1	intervention 27 35	Estrogen
+T2	intervention 41 50	Progestin

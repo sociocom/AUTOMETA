@@ -1,0 +1,13 @@
+T1	intervention 37 49	radiotherapy
+T3	No-of-participants 337 341	3729
+T6	control 237 252	no radiotherapy
+T4	outcome 389 454	reduced the absolute 10-year risk of any ipsilateral breast event
+T7	intervention-value 521 526	12.9%
+T8	control-value 530 535	28.1%
+T9	outcome 782 820	reduction in ipsilateral breast events
+T10	intervention-value 948 953	18.5%
+T11	control-value 957 962	29.1%
+T5	outcome 1160 1227	absolute reduction in the 10-year risk of ipsilateral breast events
+T12	intervention-value 1247 1252	12.1%
+T13	control-value 1256 1261	30.1%
+T2	condition 53 77	ductal carcinoma in situ

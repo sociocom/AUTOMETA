@@ -1,0 +1,15 @@
+T1	intervention 0 11	Acupuncture
+T2	condition 31 38	fatigue
+T3	No-of-participants 331 348	Three hundred two
+T4	eligibility 349 379	outpatients with breast cancer
+T5	control-participants 415 417	75
+T6	control 430 440	usual care
+T7	intervention-participants 445 448	227
+T8	duration 673 680	6 weeks
+T9	outcome-Measure 835 861	general fatigue at 6 weeks
+T10	outcome-Measure 955 992	Hospital Anxiety and Depression Scale
+T11	outcome-Measure 994 1063	Functional Assessment of Cancer Therapy-General quality-of-life scale
+T12	outcome-Measure 1069 1102	expectation of acupuncture effect
+T13	No-of-participants 1141 1162	Two hundred forty-six
+T14	outcome 1259 1280	General Fatigue score
+T15	outcome 1436 1467	fatigue aspects measured by MFI

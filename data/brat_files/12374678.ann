@@ -1,0 +1,13 @@
+T2	eligibility 267 318	women at high risk for development of breast cancer
+T3	control 819 826	placebo
+T4	outcome-Measure 928 960	improvement in cytologic pattern
+T5	No-of-participants 965 968	119
+T6	outcome 1062 1078	modest reduction
+T7	intervention-value 1080 1083	28%
+T8	outcome 1096 1118	total urine polyamines
+T9	outcome 1222 1260	no difference in cytologic improvement
+T10	outcome 1307 1409	no difference between DFMO and placebo for the secondary end points of breast molecular marker changes
+T11	duration 777 785	6 months
+T1	intervention 55 84	alpha-difluoromethylornithine
+T12	intervention-value 1165 1167	no
+T13	outcome 1168 1210	reduction in the spermidine:spermine ratio

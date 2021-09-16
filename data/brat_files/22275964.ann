@@ -1,0 +1,23 @@
+T1	intervention 14 35	transdermal estradiol
+T2	intervention 39 64	oral conjugated oestrogen
+T3	intervention 69 80	fenretinide
+T4	control 88 95	placebo
+T5	condition 99 134	haemostasis and cardiovascular risk
+T6	outcome-Measure 560 577	changes in lipids
+T7	outcome-Measure 582 598	clotting profile
+T8	eligibility 637 658	post-menopausal women
+T9	control-participants 724 726	55
+T10	intervention-participants 765 767	56
+T11	intervention-participants 854 856	56
+T12	control-participants 812 814	59
+T13	duration 939 948	12 months
+T14	outcome 1066 1083	fibrinogen levels
+T15	intervention-value 1120 1125	-5.7%
+T16	intervention-value 1139 1144	-1.1%
+T17	outcome 1166 1183	Total cholesterol
+T18	outcome 1220 1225	HDL-C
+T19	outcome 1355 1368	Triglycerides
+T20	outcome 1519 1535	Antithrombin-III
+T21	intervention-value 1545 1547	4%
+T22	intervention-value 1427 1432	21.4%
+T23	intervention-value 1470 1474	8.6%

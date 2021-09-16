@@ -1,0 +1,14 @@
+T1	intervention 21 28	low-fat
+T2	intervention 33 57	low-carbohydrate dietary
+T3	No-of-participants 617 629	Seventy-nine
+T4	eligibility 111 151	overweight and obese premenopausal women
+T5	duration 747 755	52 weeks
+T6	outcome-Measure 757 774	Serum adiponectin
+T7	outcome-Measure 791 824	adiponectin-to-leptin ratio (A/L)
+T8	outcome-Measure 776 782	leptin
+T9	outcome 1024 1045	leptin concentrations
+T10	intervention-value 1114 1119	35.3%
+T11	intervention-value 1137 1142	30.0%
+T12	outcome 1381 1390	A/L ratio
+T13	intervention-value 1526 1531	16.2%
+T14	intervention-value 1536 1541	35.1%

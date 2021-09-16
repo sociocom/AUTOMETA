@@ -1,0 +1,14 @@
+T1	intervention 33 63	emotionally expressive writing
+T2	eligibility 195 228	metastatic breast cancer patients
+T3	No-of-participants 378 380	62
+T4	eligibility 382 416	living with Stage IV breast cancer
+T5	intervention-participants 489 491	31
+T6	control-participants 549 551	31
+T8	control 540 543	CTL
+T9	outcome-Measure 632 651	Depressive symptoms
+T10	outcome-Measure 653 686	cancer-related intrusive thoughts
+T11	outcome-Measure 688 704	somatic symptoms
+T12	outcome-Measure 710 723	sleep quality
+T13	outcome 825 905	significant condition x social support interaction emerged on intrusive thoughts
+T14	outcome 1022 1090	Significant condition x time since metastatic diagnosis interactions
+T15	outcome 1329 1360	increases in sleep disturbances

@@ -1,0 +1,15 @@
+T1	condition 14 35	acute radiodermatitis
+T2	intervention 39 57	photobiomodulation
+T3	No-of-participants 513 516	120
+T4	eligibility 517 583	BC patients that underwent an identical RT regimen post-lumpectomy
+T5	intervention 339 372	photobiomodulation therapy (PBMT)
+T6	control 646 653	placebo
+T7	intervention-participants 666 668	60
+T8	control-participants 666 668	60
+T9	outcome-Measure 985 999	Skin reactions
+T10	outcome-Measure 1218 1233	quality of life
+T11	outcome 1504 1534	severity of the skin reactions
+T12	outcome 1644 1666	RTOG grade 2 or higher
+T13	control-value 1716 1719	30%
+T14	intervention-value 1724 1728	6.7%
+T15	outcome 1911 1926	quality of life

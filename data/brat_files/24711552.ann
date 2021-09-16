@@ -1,0 +1,14 @@
+T1	intervention 99 109	exemestane
+T2	location 375 381	Canada
+T3	outcome 188 228	reduced invasive breast cancer incidence
+T4	intervention-value 232 235	65%
+T5	No-of-participants 242 247	4,560
+T6	control 331 338	placebo
+T7	outcome 1800 1812	discontinued
+T8	intervention-value 1765 1768	32%
+T9	control-value 1795 1798	28%
+T10	intervention-value 1579 1581	8%
+T11	intervention-value 1615 1617	4%
+T12	outcome 1524 1540	worsening of QOL
+T13	outcome 1263 1322	self-reported vasomotor symptoms, sexual symptoms, and pain
+T14	outcome-Measure 510 551	Menopause-specific and health-related QOL

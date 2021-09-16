@@ -1,0 +1,18 @@
+T1	intervention 78 90	Nodal Photon
+T2	control 98 112	Proton Therapy
+T3	condition 20 36	Cardiac Toxicity
+T4	condition 41 51	Recurrence
+T5	No-of-participants 557 566	Forty-one
+T6	outcome-Measure 809 828	Cardiotoxicity risk
+T7	outcome 1251 1276	risk of cardiac morbidity
+T8	outcome 1613 1660	risk of breast cancer recurrence after 10 years
+T9	outcome 1751 1830	association between age of the patient and benefit from proton therapy was weak
+T10	outcome 1990 2014	risk of cardiac toxicity
+T11	control-value 2160 2164	0.9%
+T12	intervention-value 2111 2115	2.9%
+T13	intervention-value 1665 1670	0.10%
+T14	control-value 1707 1712	0.02%
+T15	intervention-value 1361 1365	1.0%
+T16	intervention-value 1389 1393	0.5%
+T17	control-value 1503 1508	0.13%
+T18	intervention-value 1533 1538	0.06%

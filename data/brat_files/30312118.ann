@@ -1,0 +1,14 @@
+T1	condition 53 62	Bone Loss
+T2	eligibility 392 411	Premenopausal women
+T3	No-of-participants 417 420	206
+T4	average-age 426 436	≤ 55 years
+T5	duration 539 547	12-month
+T7	control 570 583	control group
+T6	intervention 263 303	combined aerobic and resistance exercise
+T8	duration 256 262	1-year
+T9	outcome-Measure 585 588	BMD
+T11	outcome 1262 1293	Bone turnover markers decreased
+T10	outcome 827 852	Lumbar spine BMD declined
+T12	No-of-participants 1084 1087	100
+T13	control-participants 1089 1091	54
+T14	intervention-participants 1101 1103	46

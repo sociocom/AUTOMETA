@@ -1,0 +1,13 @@
+T1	intervention 85 120	preoperative antibiotic prophylaxis
+T2	condition 215 244	surgical site infection (SSI)
+T3	eligibility 405 443	Women undergoing MRM for breast cancer
+T4	intervention 826 847	intravenous cefazolin
+T5	control 855 862	placebo
+T6	outcome-Measure 1002 1036	SSI and other complications weekly
+T7	No-of-participants 1061 1064	254
+T8	duration 1041 1048	30 days
+T9	outcome 1199 1223	overall incidence of SSI
+T10	outcome 1281 1295	infection rate
+T11	outcome 1582 1617	SI, incidence of hematoma or seroma
+T12	control-value 1372 1376	15 %
+T13	intervention-value 1380 1386	13.4 %

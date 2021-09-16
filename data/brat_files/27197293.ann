@@ -1,0 +1,14 @@
+T1	No-of-participants 532 535	137
+T2	eligibility 507 526	premenopausal women
+T3	eligibility 537 576	with an elevated risk for breast cancer
+T4	intervention 609 625	aerobic exercise
+T5	intervention-participants 683 685	44
+T6	intervention-participants 726 728	48
+T7	control 737 750	control group
+T8	control-participants 796 798	45
+T9	outcome-Measure 900 916	Body composition
+T10	outcome-Measure 921 937	adipokine levels
+T11	outcome 1021 1047	increased fitness capacity
+T12	outcome 1102 1143	decreased fat tissue-to-total tissue mass
+T13	outcome 1197 1236	increased body fat adjusted adiponectin
+T14	outcome 1293 1327	decreased body fat adjusted leptin

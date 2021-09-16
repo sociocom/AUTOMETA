@@ -1,0 +1,15 @@
+T1	intervention 0 28	Impact + resistance training
+T2	eligibility 74 120	prematurely menopausal breast cancer survivors
+T3	No-of-participants 818 820	71
+T4	average-age 836 846	46.5 years
+T5	control 1042 1058	exercise placebo
+T6	duration 1078 1084	1 year
+T7	outcome-Measure 1100 1117	hip and spine BMD
+T8	outcome-Measure 1155 1171	body composition
+T9	outcome-Measure 1200 1217	lean and fat mass
+T10	outcome-Measure 1245 1266	bone turnover markers
+T11	outcome-Measure 1320 1346	urinary deoxypryrodinoline
+T12	outcome 1389 1447	no significant group × time interactions for bone outcomes
+T13	outcome 1570 1633	POWIR increased BMD at the hip and slowed BMD loss at the spine
+T14	outcome 1837 1853	increases in %BF
+T15	outcome 1948 1967	improvements in %BF

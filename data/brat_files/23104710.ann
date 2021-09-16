@@ -1,0 +1,13 @@
+T1	intervention 17 33	OK-432 (Sapylin)
+T2	condition 44 60	seroma formation
+T3	duration 750 781	From July 2010 to November 2011
+T4	No-of-participants 794 797	111
+T5	intervention-participants 979 981	54
+T6	control-participants 1066 1068	57
+T7	control 1083 1096	control group
+T8	outcome 1281 1326	Postoperative drainage magnitude and duration
+T9	outcome 1479 1494	palpable seroma
+T10	intervention-value 1522 1524	10
+T11	control-value 1558 1560	28
+T12	outcome 1601 1626	seromas needed aspiration
+T13	outcome 1784 1851	incidence of complications associated with axillary lymphadenectomy

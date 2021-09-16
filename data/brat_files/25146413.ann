@@ -1,0 +1,10 @@
+T1	intervention 29 92	live and telemedicine deliveries of an imagery-based behavioral
+T2	eligibility 336 383	Breast cancer survivors >6 weeks post-treatment
+T3	control 598 619	waitlist control (WL)
+T5	intervention-participants 585 587	23
+T4	intervention-participants 511 513	48
+T6	control-participants 631 633	47
+T7	duration 741 748	3-month
+T8	outcome 1422 1431	LD and TD
+T9	outcome 1259 1357	fatigue, cognitive dysfunction, sleep disturbance, and health-related and breast cancer-related QO
+T10	outcome-Measure 760 793	Seven self-report measures of QOL

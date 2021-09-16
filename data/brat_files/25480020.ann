@@ -1,0 +1,18 @@
+T1	No-of-participants 1061 1064	400
+T2	eligibility 1065 1106	previously inactive, postmenopausal women
+T3	average-age 1112 1123	50-74 years
+T4	location 1128 1143	Alberta, Canada
+T5	intervention 1195 1211	aerobic exercise
+T6	duration 1186 1194	one-year
+T7	outcome-Measure 1305 1316	Blood draws
+T8	outcome-Measure 1321 1334	accelerometry
+T9	outcome-Measure 1431 1440	adiposity
+T10	outcome-Measure 1517 1533	physical fitness
+T11	outcome-Measure 1535 1549	dietary intake
+T12	outcome-Measure 1551 1582	self-reported physical activity
+T13	outcome-Measure 1587 1605	sedentary behavior
+T14	outcome-Measure 1607 1622	quality of life
+T15	outcome-Measure 1624 1640	perceived stress
+T16	outcome-Measure 1642 1651	happiness
+T17	outcome-Measure 1653 1658	sleep
+T18	outcome-Measure 1664 1698	determinants of exercise adherence

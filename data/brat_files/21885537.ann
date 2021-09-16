@@ -1,0 +1,16 @@
+T1	intervention 10 31	manual lymph drainage
+T2	intervention 62 78	exercise therapy
+T3	condition 82 97	arm lymphoedema
+T4	location 346 361	Leuven, Belgium
+T5	No-of-participants 363 366	160
+T6	eligibility 379 452	patients with breast cancer and unilateral axillary lymph node dissection
+T7	intervention-participants 751 753	79
+T8	control 898 911	control group
+T9	control-participants 917 919	81
+T10	control 950 979	without manual lymph drainage
+T11	outcome-Measure 981 1020	Cumulative incidence of arm lymphoedema
+T12	outcome-Measure 1025 1056	time to develop arm lymphoedema
+T13	outcome 1267 1312	cumulative incidence rate for arm lymphoedema
+T14	intervention-value 1360 1363	24%
+T15	control-value 1384 1387	19%
+T16	outcome 1457 1488	time to develop arm lymphoedema

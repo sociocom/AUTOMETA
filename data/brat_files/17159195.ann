@@ -1,0 +1,10 @@
+T1	intervention 0 15	Zoledronic acid
+T2	condition 50 59	bone loss
+T3	eligibility 63 156	premenopausal women receiving adjuvant endocrine therapy for hormone-responsive breast cancer
+T4	location 176 184	Austrian
+T7	duration 779 786	3 years
+T8	No-of-participants 969 985	Four hundred one
+T9	outcome 1107 1124	overall bone loss
+T5	outcome-Measure 920 923	BMD
+T6	outcome 1213 1230	Overall bone loss
+T10	outcome 1460 1463	BMD

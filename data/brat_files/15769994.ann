@@ -1,0 +1,13 @@
+T1	intervention 0 11	Pamidronate
+T2	condition 33 63	chemotherapy-induced bone loss
+T3	duration 454 458	1-yr
+T4	control 561 568	placebo
+T5	No-of-participants 572 574	40
+T6	eligibility 575 629	premenopausal women with newly diagnosed breast cancer
+T7	outcome-Measure 631 678	Bone mineral density (BMD) of the spine and hip
+T8	outcome-Measure 683 701	remodeling markers
+T9	outcome 943 962	at the lumbar spine
+T10	outcome 874 900	change in BMD at 12 months
+T11	outcome 1009 1028	at the lumbar spine
+T12	outcome 1038 1054	at the total hip
+T13	outcome 1095 1148	Biochemical markers of bone remodeling did not differ

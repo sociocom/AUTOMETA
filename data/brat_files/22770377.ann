@@ -1,0 +1,11 @@
+T1	intervention 22 33	salidroside
+T2	condition 37 108	epirubicin-induced early left ventricular regional systolic dysfunction
+T3	No-of-participants 856 861	Sixty
+T4	intervention-participants 1004 1006	30
+T5	control 1011 1018	placebo
+T6	control-participants 1024 1026	30
+T7	outcome-Measure 1168 1222	plasma concentrations of reactive oxygen species (ROS)
+T8	outcome-Measure 1104 1120	echocardiography
+T9	outcome-Measure 1125 1149	strain rate (SR) imaging
+T10	outcome 1323 1345	decline of the SR peak
+T11	outcome 1816 1837	plasma concentrations

@@ -1,0 +1,24 @@
+T1	intervention 0 21	Manual lymph drainage
+T2	eligibility 482 539	Adults undergoing unilateral dissection for breast cancer
+T3	intervention-participants 561 563	79
+T4	control-participants 604 606	81
+T5	control 614 627	control group
+T7	outcome-Measure 1170 1201	point prevalence of lymphoedema
+T8	outcome-Measure 1203 1234	change in arm volume difference
+T9	outcome-Measure 1236 1262	shoulder range of movement
+T10	outcome-Measure 1264 1279	quality of life
+T11	outcome-Measure 1284 1292	function
+T12	outcome 1294 1309	Incidence rates
+T6	outcome-Measure 898 994	cumulative incidence of arm lymphoedema defined in four ways (≥200ml,≥2cm,≥5%, and≥10% increase)
+T13	outcome 1429 1479	cumulative incidence rate for the≥200ml definition
+T14	intervention-value 1484 1487	35%
+T15	control-value 1522 1525	29%
+T16	outcome 1588 1610	for the≥2cm definition
+T17	intervention-value 1611 1614	35%
+T18	control-value 1622 1625	38%
+T19	outcome 1666 1687	for the≥5% definition
+T20	intervention-value 1688 1691	68%
+T21	control-value 1699 1702	53%
+T22	outcome 1746 1768	for the≥10% definition
+T23	intervention-value 1769 1772	28%
+T24	control-value 1780 1783	24%

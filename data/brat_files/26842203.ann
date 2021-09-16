@@ -1,0 +1,11 @@
+T1	intervention 22 45	double-hormonal therapy
+T2	eligibility 49 108	premenopausal breast cancer patients with high nodal-status
+T3	eligibility 660 762	Premenopausal women who had surgically removed breast cancer with histologically confirmed N + and HR+
+T4	outcome-Measure 1137 1164	disease-free survival (DFS)
+T5	duration 1166 1187	Between 2003 and 2011
+T6	No-of-participants 1189 1192	101
+T7	control 976 979	TMX
+T8	control-participants 1237 1239	51
+T9	control-participants 1263 1265	50
+T10	outcome 1400 1416	overall survival
+T11	outcome 1551 1565	risk reduction

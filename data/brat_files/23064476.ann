@@ -1,0 +1,12 @@
+T1	intervention 23 34	alendronate
+T2	intervention 39 55	calcitriol agent
+T3	ethinicity 72 78	Korean
+T4	condition 609 629	AI-induced bone loss
+T5	duration 704 711	24-week
+T6	No-of-participants 823 825	98
+T7	eligibility 826 874	Korean postmenopausal women with HR-positive EBC
+T8	control 1007 1014	placebo
+T9	outcome-Measure 1027 1053	bone mineral density (BMD)
+T10	outcome-Measure 1058 1074	turnover markers
+T11	outcome 1106 1130	difference in lumbar BMD
+T12	outcome 1176 1201	increase in C-telopeptide

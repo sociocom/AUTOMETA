@@ -1,0 +1,8 @@
+T1	intervention 15 23	diabetes
+T2	eligibility 212 276	Histologically confirmed incident cases of postmenopausal breast
+T3	intervention-participants 282 285	916
+T4	location 317 324	Spanish
+T5	control-participants 374 378	1094
+T6	control 360 368	controls
+T7	outcome 766 795	overall risk of breast cancer
+T8	outcome 1240 1275	risk of developing HR+/HER2- tumors

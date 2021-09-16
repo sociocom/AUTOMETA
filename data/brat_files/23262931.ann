@@ -1,0 +1,17 @@
+T1	intervention 138 175	gonadotropin-releasing hormone (GnRH)
+T2	condition 212 243	chemotherapy-induced amenorrhea
+T3	eligibility 247 322	young breast cancer patients undergoing cyclophosphamide-based chemotherapy
+T4	No-of-participants 324 335	One hundred
+T5	eligibility 336 382	hormone-insensitive breast cancer participants
+T6	average-age 389 400	18-40 years
+T7	location 468 473	Egypt
+T8	No-of-participants 568 573	Fifty
+T9	outcome-Measure 1085 1150	Resumption of menstruation at 12 months after end of chemotherapy
+T10	outcome-Measure 1176 1201	Postchemotherapy hormonal
+T11	outcome-Measure 1206 1224	ultrasound changes
+T13	control 643 661	chemotherapy alone
+T14	intervention-value 1435 1438	80%
+T16	control-value 1544 1547	80%
+T17	intervention-value 1552 1555	84%
+T12	outcome 1328 1357	menstruation resumption rates
+T18	outcome 1666 1697	hormonal and ultrasound markers

@@ -1,0 +1,12 @@
+T1	ethinicity 76 92	Chinese American
+T2	No-of-participants 227 230	300
+T3	eligibility 136 220	Chinese American immigrant women, nonadherent with mammography in the past 12 months
+T4	outcome-Measure 556 565	knowledge
+T5	outcome-Measure 567 591	perceived susceptibility
+T6	outcome-Measure 593 634	perceived general barriers to mammography
+T7	outcome-Measure 636 669	perceived benefits to mammography
+T8	outcome-Measure 675 787	four cultural barriers to mammography (crisis orientation, modesty, use of Eastern medicine, reliance on others)
+T9	outcome 887 903	knowledge scores
+T10	outcome 1053 1094	perceived susceptibility to breast cancer
+T11	outcome 1229 1274	concerns about modesty related to mammography
+T12	outcome 1404 1422	perceived barriers

@@ -1,0 +1,17 @@
+T1	intervention 0 11	Dexrazoxane
+T2	condition 63 98	chemotherapy-induced cardiotoxicity
+T3	eligibility 194 254	breast cancer with concurrent type 2 diabetes mellitus (DM2)
+T4	No-of-participants 256 262	Eighty
+T5	control 341 358	chemotherapy only
+T6	outcome 865 902	baseline systole or diastole function
+T7	outcome-Measure 749 765	Cardiac function
+T8	outcome-Measure 770 780	hematology
+T9	outcome 993 1017	greater reductions in Ea
+T10	outcome 1036 1076	greater elevations in E/Ea and Tei index
+T11	outcome 1158 1178	superoxide dismutase
+T12	outcome 1210 1237	serum malondialdehyde (MDA)
+T13	outcome 1288 1321	Serum superoxide dismutase levels
+T14	outcome 1359 1388	before and after chemotherapy
+T15	outcome 1438 1457	before chemotherapy
+T16	outcome 1467 1476	serum MDA
+T17	outcome 1502 1520	after chemotherapy

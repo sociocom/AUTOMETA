@@ -1,0 +1,11 @@
+T1	condition 139 157	severe neutropenia
+T2	No-of-participants 511 514	218
+T3	intervention 328 358	biosimilar filgrastim (EP2006)
+T4	control 400 411	Neupogen(®)
+T5	outcome-Measure 850 901	duration of severe neutropenia (DSN) during cycle 1
+T6	outcome 1047 1068	DSN (days) in cycle 1
+T7	intervention-value 1102 1105	101
+T8	control-value 1139 1142	103
+T9	outcome 1263 1296	clinically meaningful differences
+T10	outcome 1590 1604	adverse events
+T11	outcome 1351 1522	incidence of febrile neutropenia (FN); hospitalization due to FN; incidence of infections; depth and time of absolute neutrophil count (ANC) nadir and time to ANC recovery

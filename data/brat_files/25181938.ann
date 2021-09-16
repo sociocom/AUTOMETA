@@ -1,0 +1,12 @@
+T1	intervention 42 55	music therapy
+T2	intervention 60 98	progressive muscle relaxation training
+T3	eligibility 102 156	female breast cancer patients after radical mastectomy
+T4	ethinicity 351 358	Chinese
+T5	No-of-participants 426 429	170
+T6	intervention-participants 494 496	85
+T7	control 599 612	control group
+T8	control 632 652	routine nursing care
+T9	control-participants 618 620	85
+T10	outcome 1023 1060	improvement in depression and anxiety
+T11	outcome 1288 1319	shorter length of hospital stay
+T12	condition 300 347	depression, anxiety and length of hospital stay

@@ -1,0 +1,9 @@
+T1	condition 14 26	osteoporosis
+T2	eligibility 78 123	postmenopausal women with early breast cancer
+T3	intervention 783 791	exercise
+T4	intervention 806 815	vitamin D
+T5	intervention 820 827	calcium
+T6	No-of-participants 892 897	Sixty
+T7	control 1017 1030	control group
+T8	duration 1095 1103	12-month
+T9	outcome-Measure 1415 1445	total hip bone mineral density

@@ -1,0 +1,18 @@
+T1	ethinicity 84 92	Hispanic
+T2	intervention 168 176	exercise
+T3	duration 483 490	16-week
+T4	eligibility 429 461	Hispanic breast cancer survivors
+T5	average-age 617 633	Mexican American
+T6	ethinicity 638 650	Puerto Rican
+T7	location 678 685	Houston
+T8	location 687 692	Texas
+T9	location 697 705	San Juan
+T10	location 707 718	Puerto Rico
+T11	No-of-participants 745 747	89
+T12	outcome-Measure 1035 1059	changes in SCT variables
+T13	outcome-Measure 1064 1084	changes in PA and ST
+T14	average-age 1123 1139	58.5 ± 9.2 years
+T15	outcome 1314 1406	increases in exercise self-efficacy and moderate-intensity, vigorous-intensity, and total PA
+T16	outcome 1503 1537	increases in vigorous-intensity PA
+T17	outcome 1589 1633	increases in moderate-intensity and total PA
+T18	outcome 1643 1658	decreases in ST

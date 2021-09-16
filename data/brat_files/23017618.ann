@@ -1,0 +1,22 @@
+T1	intervention 0 9	Bupropion
+T2	condition 25 36	hot flashes
+T3	No-of-participants 578 580	55
+T4	eligibility 581 635	BC survivors who reported more than seven HFs per week
+T5	control 778 785	placebo
+T6	outcome-Measure 839 864	average daily HF activity
+T7	outcome-Measure 992 1010	sexual dysfunction
+T8	outcome-Measure 1012 1022	depression
+T9	outcome-Measure 1028 1043	quality of life
+T10	outcome 1253 1256	HFs
+T11	intervention-value 1293 1298	6.31%
+T12	intervention-value 1260 1264	1.26
+T13	outcome 1281 1289	HF score
+T14	outcome 1324 1327	HFs
+T15	control-value 1331 1335	2.11
+T16	outcome 1361 1369	HF score
+T17	control-value 1373 1379	30.47%
+T18	outcome 1487 1635	Sexual Experience Scale, Beck Depression Inventory, and European Organization for Research and Treatment of Cancer Quality of Life Questionnaire-C30
+T19	intervention-value 1662 1665	47%
+T20	control-value 1711 1714	53%
+T21	outcome 1673 1701	patients preferred bupropion
+T22	outcome 1715 1732	preferred placebo

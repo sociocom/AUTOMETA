@@ -1,0 +1,10 @@
+T1	intervention 0 27	Guided paravertebral blocks
+T2	intervention 48 57	clonidine
+T3	eligibility 562 589	women undergoing mastectomy
+T4	No-of-participants 591 596	Sixty
+T5	control 694 711	without clonidine
+T6	outcome-Measure 713 734	Analgesic consumption
+T7	outcome 935 956	Analgesic consumption
+T8	outcome-Measure 821 825	pain
+T9	outcome 1101 1112	Pain scores
+T10	outcome 1479 1515	time needed to resume daily activity

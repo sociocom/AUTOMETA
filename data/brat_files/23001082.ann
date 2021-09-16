@@ -1,0 +1,12 @@
+T1	intervention 12 35	prophylactic antibiotic
+T2	eligibility 587 695	Overweight or obese women with clinically early-stage breast cancer who had been assigned to undergo surgery
+T3	control 773 786	control group
+T4	outcome-Measure 1050 1064	SSI incidences
+T5	duration 1110 1117	30 days
+T6	No-of-participants 1130 1133	369
+T7	intervention-participants 1189 1192	187
+T8	control-participants 1228 1231	182
+T9	outcome 1380 1388	SSI rate
+T10	intervention-value 1390 1394	4.8%
+T11	control-value 1467 1472	13.7%
+T12	outcome 1557 1578	mean SSI-related cost

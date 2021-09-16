@@ -1,0 +1,8 @@
+T1	control 727 740	control group
+T2	control-participants 746 748	41
+T3	intervention-participants 852 854	45
+T4	intervention-participants 889 891	25
+T5	intervention 0 11	L-Thyroxine
+T6	outcome 1008 1017	lower TSH
+T7	outcome 1175 1200	T3 significantly declined
+T8	outcome 1393 1409	physical fatigue

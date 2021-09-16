@@ -1,0 +1,21 @@
+T1	intervention 27 36	Telephone
+T2	intervention 54 76	Weight Loss Counseling
+T3	control 479 489	usual care
+T4	duration 493 500	6-month
+T5	No-of-participants 577 588	One hundred
+T6	eligibility 589 648	breast cancer survivors with a body mass index ≥ 25 kg/m(2)
+T7	intervention-participants 701 703	33
+T8	intervention-participants 732 734	34
+T9	control-participants 761 763	33
+T10	outcome-Measure 954 970	Body composition
+T11	outcome-Measure 972 989	physical activity
+T12	outcome-Measure 991 995	diet
+T13	outcome-Measure 1001 1017	serum biomarkers
+T14	average-age 1091 1105	59 ± 7.5 years
+T15	outcome 1269 1296	Average 6-month weight loss
+T16	intervention-value 1301 1305	6.4%
+T17	intervention-value 1307 1311	5.4%
+T18	control-value 1317 1321	2.0%
+T19	outcome 1520 1557	decrease in C-reactive protein levels
+T20	intervention-value 1516 1519	30%
+T21	control-value 1665 1667	1%

@@ -1,0 +1,18 @@
+T1	intervention 110 151	tailored dose-dense adjuvant chemotherapy
+T2	average-age 741 752	18-65 years
+T3	eligibility 754 812	ECOG PS 0-1 with at least one positive axillary lymph node
+T4	outcome-Measure 878 917	safety and feasibility of the treatment
+T5	No-of-participants 1120 1123	124
+T6	outcome-Measure 919 927	Toxicity
+T7	duration 1189 1199	10.3 years
+T8	outcome 1205 1237	probability for 10-year survival
+T9	control 707 718	TAC regimen
+T10	intervention-value 1242 1246	78.5
+T11	intervention-value 1248 1252	75.1
+T12	control-value 1258 1263	63.4%
+T13	outcome 1272 1293	relapse free survival
+T14	intervention-value 1294 1298	64.1
+T15	intervention-value 1300 1304	71.0
+T16	control-value 1310 1315	59.5%
+T17	outcome 1365 1440	no cases of clinically diagnosed cardiotoxicity or hematologic malignancies
+T18	outcome 1442 1474	No patient was lost to follow-up
