@@ -1,0 +1,9 @@
+T1	intervention 55 71	Aerobic Exercise
+T2	duration 414 422	24-month
+T3	duration 440 449	2012-2014
+T4	No-of-participants 593 596	400
+T5	eligibility 597 630	cancer-free, postmenopausal women
+T6	outcome 1170 1200	24-month fasting blood samples
+T7	outcome 1534 1552	biomarker profiles
+T8	outcome 1346 1386	biomarker changes differed significantly
+T9	outcome-Measure 894 1075	biomarker concentrations (C-reactive protein, insulin, glucose, HOMA-IR, estrone, sex hormone binding globulin, total estradiol, and free estradiol) over time (0, 12, and 24 months)

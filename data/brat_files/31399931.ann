@@ -1,0 +1,12 @@
+T1	intervention 60 69	vitamin D
+T2	eligibility 530 568	Newly diagnosed breast cancer patients
+T3	control 631 638	placebo
+T4	duration 648 655	6 weeks
+T5	No-of-participants 863 865	83
+T6	No-of-participants 887 889	80
+T7	intervention-participants 911 913	43
+T8	control-participants 936 938	37
+T9	outcome 1104 1140	percent changes of either Ki67 index
+T10	outcome 1171 1174	CC3
+T11	outcome 1208 1249	Serum 25-hydroxyvitamin D (25-OHD) levels
+T12	outcome 1330 1345	Adverse effects

@@ -1,0 +1,9 @@
+T1	intervention 192 219	wearable-based intervention
+T2	eligibility 482 581	Inactive and postmenopausal women who had completed primary treatment for stage I-III breast cancer
+T3	control 617 633	waitlist control
+T4	outcome-Measure 635 675	Physical activity and sedentary behavior
+T5	outcome-Measure 808 825	HRQoL and fatigue
+T6	No-of-participants 1135 1137	83
+T7	outcome 1222 1235	fatigue score
+T8	outcome 1442 1469	fatigue from baseline to T2
+T9	outcome 1514 1533	from baseline to T3

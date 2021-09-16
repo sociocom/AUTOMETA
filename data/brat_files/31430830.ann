@@ -1,0 +1,10 @@
+T1	intervention 17 50	acceptance and commitment therapy
+T2	eligibility 70 112	women undergoing surgery for breast cancer
+T3	eligibility 421 491	women undergoing surgery for breast cancer or ductal carcinoma in situ
+T4	location 597 610	United States
+T5	duration 611 628	from 2015 to 2017
+T6	No-of-participants 816 818	54
+T7	average-age 863 874	52.91 years
+T8	outcome 938 958	moderate-severe pain
+T9	outcome 1283 1348	moderate-severe pain and elevated anxiety at 3-month post-surgery
+T10	condition 160 177	postsurgical pain

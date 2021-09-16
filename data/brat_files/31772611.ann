@@ -1,0 +1,11 @@
+T1	intervention 0 22	Inulin Supplementation
+T2	condition 31 54	Systolic Blood Pressure
+T3	eligibility 688 755	women with early-stage breast cancer undergoing neoadjuvant therapy
+T4	No-of-participants 759 761	38
+T5	control 879 901	placebo (maltodextrin)
+T6	duration 906 913	21 days
+T7	outcome-Measure 915 950	Body composition and blood pressure
+T8	outcome 1052 1081	systolic blood pressure (SBP)
+T9	outcome 1189 1219	Diastolic blood pressure (DBP)
+T10	outcome 1306 1309	BMI
+T11	outcome 1332 1335	BFP

@@ -1,0 +1,10 @@
+T1	intervention 0 28	Novel hyaluronan formulation
+T2	condition 44 64	acute skin reactions
+T3	No-of-participants 370 376	Thirty
+T4	eligibility 377 428	women with breast cancer undergoing whole breast RT
+T5	control 577 603	control cream (placebo, P)
+T6	outcome-Measure 648 726	physician's evaluation of skin symptoms at week 5 during RT and week 2 post-RT
+T7	outcome-Measure 746 911	patients' independent assessment of skin after RT, patient's product preference, and an independent physician panel assessment of skin reactions based on photographs
+T8	No-of-participants 913 925	Twenty-eight
+T9	outcome 988 1037	no significant difference in radiation dermatitis
+T10	outcome 1172 1206	skin appearance and skin reactions

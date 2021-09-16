@@ -1,0 +1,20 @@
+T1	intervention 96 126	Chlorhexidine-Coated Dressings
+T2	duration 434 467	from October 2016 to January 2018
+T3	eligibility 477 518	patients undergoing breast cancer surgery
+T4	control 563 588	standard drain care group
+T5	outcome-Measure 750 776	Colonization rates and SSI
+T6	No-of-participants 834 837	104
+T7	outcome 991 1032	Bulb fluid cultures at postoperative week
+T8	control-value 1059 1064	42.9%
+T9	intervention-value 1090 1095	28.9%
+T10	outcome 1132 1155	Cultures from the POW 2
+T11	control-value 1185 1190	79.7%
+T12	intervention-value 1219 1224	54.9%
+T13	outcome 1262 1287	Cultures from drain tubes
+T14	control-value 1306 1311	79.8%
+T15	intervention-value 1337 1342	50.7%
+T16	outcome 1401 1414	SSI developed
+T17	intervention-value 1416 1417	3
+T19	intervention-value 1419 1423	5.8%
+T18	control-value 1451 1452	8
+T20	control-value 1454 1459	15.4%

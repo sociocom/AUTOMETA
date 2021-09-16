@@ -1,0 +1,14 @@
+T1	intervention 62 72	vitamin D3
+T2	condition 91 129	aromatase inhibitor-induced arthralgia
+T3	eligibility 473 533	post-menopausal women who were beginning adjuvant AI therapy
+T4	duration 645 654	12 weeks,
+T5	control 545 569	standard-dose vitamin D3
+T6	outcome-Measure 722 740	development of AIA
+T7	No-of-participants 775 778	184
+T8	No-of-participants 832 834	93
+T11	outcome 1064 1077	developed AIA
+T12	intervention-value 1046 1048	25
+T13	intervention-value 1059 1062	54%
+T14	control-value 1091 1093	27
+T15	control-value 1104 1107	57%
+T9	outcome 916 938	serum vitamin D levels

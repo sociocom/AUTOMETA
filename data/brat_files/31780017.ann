@@ -1,0 +1,11 @@
+T1	intervention 0 17	Nigella sativa L.
+T2	condition 36 62	acute radiation dermatitis
+T3	No-of-participants 331 340	Sixty-two
+T4	eligibility 341 392	breast cancer patients undergoing radiotherapy (RT)
+T5	control 446 453	placebo
+T6	outcome-Measure 560 664	incidence of moist desquamation, worst experienced pain, and skin-related quality of life (SRQOL) scores
+T7	outcome 746 759	developed ARD
+T8	outcome 883 1039	incidence time of grade 2 and 3 of Radiation Therapy Oncology Group and the European Organization for Research and Treatment of Cancer (RTOG/EORTC) toxicity
+T9	outcome 1198 1230	occurrence of moist desquamation
+T10	outcome 1334 1362	mean score of the worst pain
+T11	outcome 1584 1603	effect on the SRQOL

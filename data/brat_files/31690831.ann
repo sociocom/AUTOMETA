@@ -1,0 +1,12 @@
+T1	intervention 28 53	lapatinib and vinorelbine
+T2	control 57 68	vinorelbine
+T3	eligibility 72 159	patients with HER2 + metastatic breast cancer after lapatinib and trastuzumab treatment
+T4	No-of-participants 420 423	149
+T5	outcome-Measure 634 682	progression-free survival (PFS) rate at 18 weeks
+T6	outcome 792 812	PFS rate at 18 weeks
+T7	intervention-value 836 841	45.9%
+T8	control-value 845 850	38.9%
+T9	outcome 863 866	ORR
+T10	intervention-value 871 876	19.7%
+T11	control-value 892 897	16.9%
+T12	outcome 1091 1108	Toxicity profiles
