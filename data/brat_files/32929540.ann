@@ -1,0 +1,21 @@
+T1	intervention 116 131	bisphosphonates
+T2	eligibility 512 548	women with stage I-III breast cancer
+T3	No-of-participants 786 790	6018
+T4	outcome 801 816	developed BRONJ
+T5	outcome 818 827	Infection
+T6	outcome 855 875	Median time to BRONJ
+T7	outcome 957 962	BRONJ
+T8	intervention-value 1004 1006	28
+T9	intervention-participants 1007 1011	2231
+T10	intervention-value 1013 1018	1.26%
+T11	duration 623 630	3 years
+T12	intervention 560 580	zoledronic acid (ZA)
+T13	intervention 582 597	clodronate (CL)
+T14	intervention 602 618	ibandronate (IB)
+T15	intervention-value 1028 1029	8
+T16	intervention-participants 1030 1034	2235
+T17	intervention-value 1036 1041	0.36%
+T18	intervention-value 1051 1053	12
+T19	intervention-participants 1054 1058	1552
+T20	intervention-value 1060 1065	0.77%
+T21	outcome 1234 1262	BRONJ occurred spontaneously

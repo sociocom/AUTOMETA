@@ -1,0 +1,15 @@
+T1	intervention 10 32	mammographic screening
+T2	average-age 459 470	39-41 years
+T3	control 722 751	standard care of no screening
+T4	outcome-Measure 1050 1180	mortality from breast cancers (with breast cancer coded as the underlying cause of death) diagnosed during the intervention period
+T5	No-of-participants 1577 1584	160 921
+T6	duration 1606 1645	between Oct 14, 1990, and Sept 24, 1997
+T7	intervention-participants 1647 1653	53 883
+T8	control-participants 1721 1728	106 953
+T9	outcome 1905 1953	breast cancer mortality at 10 years of follow-up
+T10	intervention-value 1960 1962	83
+T11	control-value 2017 2020	219
+T12	outcome 2156 2162	deaths
+T13	intervention-value 2152 2155	126
+T14	control-value 2170 2173	255
+T15	location 412 425	Great Britain
