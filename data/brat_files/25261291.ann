@@ -1,8 +1,0 @@
-T1	intervention 79 101	lipegfilgrastim (XM22)
-T2	No-of-participants 439 442	208
-T3	eligibility 443 470	chemotherapy-naive patients
-T4	eligibility 105 162	breast cancer patients receiving myelosuppressive therapy
-T5	outcome-Measure 749 796	duration of severe neutropenia (DSN) in cycle 1
-T6	outcome 848 888	shorter DSN in cycle 1 with higher doses
-T7	outcome 894 902	mean DSN
-T8	outcome 1133 1254	higher absolute neutrophil count (ANC) at nadir, shorter ANC recovery time, and a similar safety and tolerability profile

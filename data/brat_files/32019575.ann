@@ -1,8 +1,0 @@
-T1	condition 14 48	doxorubicin-induced Cardiotoxicity
-T2	intervention 68 106	non-hypoxic myocardial preconditioning
-T3	intervention 116 142	Docosahexaenoic Acid (DHA)
-T4	intervention 147 157	carvedilol
-T5	No-of-participants 1213 1215	32
-T6	eligibility 1343 1400	breast cancer patients undergoing anthracycline treatment
-T7	outcome-Measure 1448 1755	changes in left ventricular ejection fraction (LVEF) determined by cardiac magnetic resonance (CMR); changes in global longitudinal strain (GLS) determined by two-dimensional echocardiography (ECHO); elevation in serum biomarkers (hs-cTnT and NT-ProBNP); and one electrocardiographic variable (QTc interval)
-T8	outcome-Measure 1785 1878	other imaging, biomarkers and the occurrence of major adverse cardiac events during follow-up

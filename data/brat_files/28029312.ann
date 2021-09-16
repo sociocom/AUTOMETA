@@ -1,9 +1,0 @@
-T1	intervention 21 55	88 Single Nucleotide Polymorphisms
-T2	intervention-participants 623 626	359
-T3	eligibility 627 653	women who developed cancer
-T4	control-participants 670 673	636
-T5	control 674 682	controls
-T6	outcome-Measure 868 888	performance of SNP88
-T7	outcome 999 1039	predictive of breast cancer risk overall
-T8	outcome 1289 1311	observed risk of SNP88
-T9	outcome 1359 1385	No significant interaction

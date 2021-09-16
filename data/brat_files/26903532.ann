@@ -1,9 +1,0 @@
-T1	condition 14 33	cardiac dysfunction
-T2	intervention 449 460	candesartan
-T3	intervention 468 488	β-blocker metoprolol
-T4	No-of-participants 750 753	130
-T5	eligibility 754 818	adult women with early breast cancer and no serious co-morbidity
-T6	control 926 934	placebos
-T7	outcome-Measure 1013 1027	change in LVEF
-T8	outcome 1156 1216	no interaction between candesartan and metoprolol treatments
-T9	outcome 1234 1257	overall decline in LVEF

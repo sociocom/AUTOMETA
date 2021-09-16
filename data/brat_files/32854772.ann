@@ -1,7 +1,0 @@
-T1	intervention 0 11	Rivaroxaban
-T2	location 1296 1298	UK
-T3	No-of-participants 1389 1391	88
-T4	eligibility 1392 1436	treatment-naïve early breast cancer patients
-T5	control 1500 1512	no treatment
-T6	outcome-Measure 1711 1732	change in tumour Ki67
-T7	outcome-Measure 1769 1916	tumour markers of apoptosis and angiogenesis, extrinsic clotting pathway activation and systemic markers of metastasis, tumour load and coagulation

@@ -1,8 +1,0 @@
-T1	intervention 16 63	guideline-based heart substructures delineation
-T2	eligibility 67 133	left-sided breast cancer patients undergoing adjuvant radiotherapy
-T3	condition 364 388	cardiovascular morbidity
-T4	No-of-participants 668 670	16
-T6	outcome-Measure 974 1070	Dice similarity coefficients (DSC) between volumes delineated by different operators and the MCD
-T5	outcome 1136 1223	Mean DSCs between heart chambers delineated by each operator and the corresponding MCDs
-T7	outcome 1254 1345	Mean DSC between substructures delineated by all single operators and the corresponding MCD
-T8	outcome 1376 1422	Mean DSC between CBD and the corresponding MCD

@@ -1,8 +1,0 @@
-T1	intervention 48 93	Mindfulness-Based Stress Reduction (MBSR[BC])
-T2	control 359 374	usual care (UC)
-T3	No-of-participants 481 484	322
-T4	eligibility 137 171	Recovering Breast Cancer Survivors
-T5	outcome-Measure 669 685	Plasma cytokines
-T6	outcome 992 1073	Of the six measured cytokines, three were nondetectable at rates greater than 50%
-T7	outcome 1234 1285	TNFα and IL-6 increased during the follow-up period
-T8	outcome 1397 1425	sTNFR1 levels did not change

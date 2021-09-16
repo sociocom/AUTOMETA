@@ -1,8 +1,0 @@
-T1	condition 35 49	oral mucositis
-T2	eligibility 53 152	estrogen receptor-positive metastatic breast cancer patients treated with everolimus (Oral Care-BC)
-T3	intervention 285 307	professional oral care
-T4	eligibility 362 428	postmenopausal estrogen receptor-positive metastatic breast cancer
-T5	control 490 497	control
-T6	duration 859 865	8 week
-T7	outcome-Measure 1019 1060	incidence of all grades of oral mucositis
-T8	No-of-participants 1080 1083	200

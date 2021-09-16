@@ -1,8 +1,0 @@
-T1	intervention 24 33	metformin
-T2	No-of-participants 673 684	Two-hundred
-T3	eligibility 685 703	non-diabetic women
-T4	control 757 764	placebo
-T5	duration 769 776	4 weeks
-T6	outcome-Measure 813 840	ki-67 response to metformin
-T7	outcome 1236 1241	ki-67
-T8	outcome 1474 1485	drug levels
