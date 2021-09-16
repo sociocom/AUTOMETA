@@ -7,3 +7,6 @@ The corpus consists of 600 PubMed abstracts which are RCTs related to breast can
 The filename corresponds to the PubMed identification number (PMID). 
 * Brat files - The abstracts were annotated using the brat annotation tool. 
 * XML files - The brat files format were converted to XML format.
+
+# Citation 
+If you find this dataset useful please cite our paper:
