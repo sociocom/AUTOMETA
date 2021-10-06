@@ -10,3 +10,5 @@ The filename corresponds to the PubMed identification number (PMID).
 
 # Citation 
 If you find this dataset useful please cite our paper:
+* Faith Wavinya Mutinda, Shuntaro Yada, Shoko Wakamiya, Eiji Aramaki: AUTOMETA: Automatic Meta-Analysis System Employing Natural Language Processing, MedInfo
+2021 (2021/10 / 2-4, Online) ( to appear)
